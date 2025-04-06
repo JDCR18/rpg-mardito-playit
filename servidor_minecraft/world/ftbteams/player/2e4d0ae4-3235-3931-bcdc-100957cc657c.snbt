@@ -1,0 +1,18 @@
+{
+	id: "2e4d0ae4-3235-3931-bcdc-100957cc657c"
+	type: "player"
+	player_name: "ina"
+	ranks: {
+		2e4d0ae4-3235-3931-bcdc-100957cc657c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ina"
+		"ftbteams:color": "#59E3FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: {
+		Money: 1L
+	}
+}
