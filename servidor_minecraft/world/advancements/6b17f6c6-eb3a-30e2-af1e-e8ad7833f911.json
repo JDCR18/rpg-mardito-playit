@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/chorus_mushroom_cooked_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -1050,6 +1056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -1611,6 +1623,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
     },
     "done": true
   },
@@ -3138,6 +3156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pine_drakkar": {
     "criteria": {
       "in_water": "2025-04-06 03:16:49 +0000"
@@ -3387,6 +3411,12 @@
   "mysticalworld:root": {
     "criteria": {
       "auto": "2025-04-06 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "village": "2025-04-06 18:48:24 +0000"
     },
     "done": true
   },
@@ -3918,6 +3948,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-06 19:08:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -4094,6 +4130,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-04-06 18:51:27 +0000",
       "minecraft:zombie": "2025-04-06 03:11:38 +0000"
     },
     "done": false
@@ -4683,6 +4720,12 @@
   "smallships:recipes/lotr_cypress_brigg": {
     "criteria": {
       "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
     },
     "done": true
   },
@@ -6091,6 +6134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/floormats/nether/warped_stem/warped_stem_floormat": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -7477,6 +7526,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-06 19:04:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorative_blocks/jungle_branch_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -7516,6 +7571,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-04-06 18:56:10 +0000"
     },
     "done": true
   },
@@ -7588,6 +7649,12 @@
   "good_nights_sleep:recipes/gns_blocks/dead_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-06 19:04:32 +0000"
     },
     "done": true
   },
@@ -7715,6 +7782,12 @@
     "criteria": {
       "has_parent_recipe": "2025-04-06 02:32:42 +0000",
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/acacia_post": {
+    "criteria": {
+      "has_item": "2025-04-06 19:00:47 +0000"
     },
     "done": true
   },
@@ -11219,6 +11292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/polished_brumble_brick_wall_stonecutting_polished_brumble_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -12810,6 +12889,12 @@
     },
     "done": true
   },
+  "illagers_plus:find_mine": {
+    "criteria": {
+      "fortress": "2025-04-06 19:01:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -12885,6 +12970,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "majruszs_difficulty:progressive_difficulty/bleeding_cactus": {
+    "criteria": {
+      "bleeding_applied": "2025-04-06 18:59:26 +0000"
     },
     "done": true
   },
@@ -14003,6 +14094,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-06 19:04:22 +0000"
     },
     "done": true
   },
@@ -15551,6 +15648,12 @@
   "mcwbridges:recipes/acacia_rope_bridge_stair": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
     },
     "done": true
   },
@@ -17378,6 +17481,13 @@
     },
     "done": true
   },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "desert_village": "2025-04-06 18:48:24 +0000",
+      "savanna_village": "2025-04-06 18:48:29 +0000"
+    },
+    "done": false
+  },
   "mysticalworld:recipes/mysticalworld/wet_mud_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -19136,6 +19246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tropicraft/brown_beach_float": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -20762,6 +20878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tropicraft/bamboo_spear": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -21077,6 +21199,12 @@
   "greekfantasy:root": {
     "criteria": {
       "inv_changed": "2025-04-06 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candelabra_silver": {
+    "criteria": {
+      "has_plank": "2025-04-06 19:02:15 +0000"
     },
     "done": true
   },
@@ -22401,6 +22529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -22554,6 +22688,12 @@
   "blue_skies:recipes/blue_skies_misc/pyrope_gem_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
     },
     "done": true
   },
@@ -22878,6 +23018,12 @@
   "betterendforge:recipes/betterendforge/iron_bulb_lantern_black": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
     },
     "done": true
   },
@@ -23346,6 +23492,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-06 18:45:35 +0000"
     },
     "done": true
   },
@@ -25496,7 +25648,10 @@
     "criteria": {
       "minecraft:forest": "2025-04-06 02:32:46 +0000",
       "minecraft:desert_hills": "2025-04-06 03:16:51 +0000",
-      "minecraft:river": "2025-04-06 03:16:50 +0000"
+      "minecraft:desert": "2025-04-06 18:43:19 +0000",
+      "minecraft:savanna_plateau": "2025-04-06 18:55:22 +0000",
+      "minecraft:river": "2025-04-06 03:16:50 +0000",
+      "minecraft:savanna": "2025-04-06 18:43:07 +0000"
     },
     "done": false
   },
@@ -26102,7 +26257,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-04-06 15:31:34 +0000"
+      "cooked_mutton": "2025-04-06 18:42:45 +0000",
+      "apple": "2025-04-06 15:31:34 +0000",
+      "bread": "2025-04-06 18:56:46 +0000"
     },
     "done": false
   },
@@ -26778,6 +26935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -26829,6 +26992,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-06 18:43:20 +0000"
     },
     "done": true
   },
