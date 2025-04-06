@@ -2521,3 +2521,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [06Apr2025 16:06:17.495] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:ara from a89bac0f-70fa-4381-ad84-b79d79647f47 to 13ca71ca-3ba5-4431-b031-01fc0c1ae7ab
 [06Apr2025 16:06:17.496] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:ara from 49205975-a3eb-4b69-a451-1fd39752e356 to 02dc0951-7f5c-4d48-b079-6c5fc52a1e92
 [06Apr2025 16:06:17.527] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 36bb5186-3b69-40ff-a6cb-8358b5df2b4f to 62720128-c14d-46ce-9a7d-4310289516c9
+[06Apr2025 16:06:33.973] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: javi has reached level 2 in agility! [minecraft:overworld|x:133.03|y:65.00|z:-209.71]
+[06Apr2025 16:06:54.419] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: javi lost connection: Disconnected
+[06Apr2025 16:06:54.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: javi left the game
+[06Apr2025 16:10:25.169] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 16:10:25.172] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 16:10:26.750] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@44d7ae53[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:38707) lost connection: Disconnected

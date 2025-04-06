@@ -1,0 +1,16 @@
+{
+	id: "848be492-8131-347f-861b-b270c49a189d"
+	type: "player"
+	player_name: "javi"
+	ranks: {
+		848be492-8131-347f-861b-b270c49a189d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "javi"
+		"ftbteams:color": "#D1FF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
