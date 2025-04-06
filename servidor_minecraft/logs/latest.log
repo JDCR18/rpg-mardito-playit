@@ -2424,3 +2424,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [06Apr2025 15:39:31.641] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
 [06Apr2025 15:39:31.643] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
 [06Apr2025 15:39:33.186] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4bc57c48[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:49131) lost connection: Disconnected
+[06Apr2025 15:39:40.555] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:39:40.558] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:39:42.081] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5d4bfb5c[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:39255) lost connection: Disconnected
+[06Apr2025 15:40:20.855] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:40:20.857] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:40:22.329] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@157feb16[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:52457) lost connection: Disconnected
+[06Apr2025 15:40:28.855] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:40:28.857] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:40:30.391] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2cc079f5[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:42653) lost connection: Disconnected
+[06Apr2025 15:41:16.787] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:41:16.790] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:41:18.328] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@431505a2[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:39439) lost connection: Disconnected
+[06Apr2025 15:41:23.470] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:41:23.472] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:41:24.934] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@47fd2623[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:42447) lost connection: Disconnected
+[06Apr2025 15:41:29.493] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:41:29.496] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:41:30.979] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@30719447[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:36785) lost connection: Disconnected
+[06Apr2025 15:41:38.328] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:41:38.331] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:41:39.831] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@65974572[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:42347) lost connection: Disconnected
