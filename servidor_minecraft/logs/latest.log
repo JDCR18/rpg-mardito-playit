@@ -3424,3 +3424,319 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [06Apr2025 19:09:13.820] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cod from 55b713c6-dccf-42b8-8fd0-f0574a378a6c to dc540978-3440-48ca-975b-10d827862630
 [06Apr2025 19:09:13.820] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cod from 50aa5b6f-94f9-4bb2-95a0-5f6f4aca477d to 92e39f17-d189-44cd-9811-6cdc94f12b8e
 [06Apr2025 19:13:07.901] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: danae1108 has reached level 4 in gathering! [minecraft:overworld|x:397.84|y:62.00|z:337.41]
+[06Apr2025 19:13:21.160] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: danae1108 has reached level 3 in woodcutting! [minecraft:overworld|x:399.37|y:64.00|z:339.33]
+[06Apr2025 19:14:15.201] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ina lost connection: Disconnected
+[06Apr2025 19:14:15.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ina left the game
+[06Apr2025 19:14:21.691] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 19:14:21.695] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 19:14:24.733] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@33f8f8af
+[06Apr2025 19:14:24.795] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ina[/127.58.60.6:56011] logged in with entity id 17448 at (434.2385870144134, 71.0, 477.9696348494927)
+[06Apr2025 19:14:24.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ina
+[06Apr2025 19:14:24.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ina
+[06Apr2025 19:14:24.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ina
+[06Apr2025 19:14:24.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ina
+[06Apr2025 19:14:24.802] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ina
+[06Apr2025 19:14:24.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ina
+[06Apr2025 19:14:24.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ina
+[06Apr2025 19:14:24.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ina joined the game
+[06Apr2025 19:14:25.085] [Server thread/INFO] [Waila/]: Syncing config to ina (2e4d0ae4-3235-3931-bcdc-100957cc657c)
+[06Apr2025 19:14:25.134] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ina...
+[06Apr2025 19:14:25.135] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Apr2025 19:14:25.135] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ina
+[06Apr2025 19:14:25.304] [Server thread/INFO] [capsule.loot.StarterLoot/]: playerLogin: giving starters now
+[06Apr2025 19:14:49.262] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:tarantula_hawk from 9c5e5ddc-f21a-4a79-8d49-7cb58f7eda30 to 6ff3a3f7-a13a-497b-b53f-ff3759dc148a
+[06Apr2025 19:14:49.263] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:summer_pixie from a21dca94-c553-4a78-a305-f66e061e9378 to e52d1c73-5f4f-40c7-b56e-a1fd26e17dbc
+[06Apr2025 19:14:49.652] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from c1feb055-34ae-4763-8579-47daed729bed to cfb2e0d4-f807-4b72-9d7c-7f4f96a54d97
+[06Apr2025 19:14:59.720] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:gazelle from cf66c2b9-8411-43db-bf1f-a37ef4862909 to 4070041c-f64b-4a7a-824b-dfbf8b996d01
+[06Apr2025 19:15:11.793] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from 3fed33ea-3331-48e1-b3f5-2868456dc0e3 to a71f6302-f015-4bcf-abf1-faedeffcf525
+[06Apr2025 19:15:11.794] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from 940c8ae4-8ba2-455e-bb76-842d660465e5 to ec8e9f3b-7d61-4e4c-8280-ae70943fe688
+[06Apr2025 19:15:11.911] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item from dacf4362-b87d-4e9c-9099-4e2dd9c20753 to d7ff0afb-0bbd-40e4-8d7a-3efcb802bd5a
+[06Apr2025 19:15:11.911] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from 5a63c1ae-e70e-46b3-a9ff-aaf555dbeda6 to 98ab48ba-ba63-411c-8d5d-87c1858a770e
+[06Apr2025 19:15:12.433] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity ars_nouveau:drygmy from b060caf5-b1f5-4c5b-8918-d727420b7c29 to 0fa0a33a-ac8f-4cb8-94bb-3c1113f6dd2c
+[06Apr2025 19:15:12.569] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from 19dc5980-94a3-4b29-9b27-bc1b2d872b1d to 5b8761ca-3029-4ab9-9a2b-1f451b122965
+[06Apr2025 19:15:12.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from f710c5bb-a648-484d-9e24-1b2e795c6f4b to 8fe59cc4-31db-4f86-8082-56e0716e56e7
+[06Apr2025 19:15:12.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from 2d7dcc60-f571-426e-8c1c-cecdc20e287e to 901c565a-abc4-4068-a51a-3af353f5b4f3
+[06Apr2025 19:15:12.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from 2a773507-cf6f-4fdf-944b-c87a5766666f to e416db99-acff-4a3b-a709-48c2ca598eac
+[06Apr2025 19:15:12.855] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:zombie_villager from 47068869-9e87-4529-93d5-634bc5242b18 to 75a0b1a6-dd12-4f62-b426-1ba8c722fc30
+[06Apr2025 19:15:23.459] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:summer_pixie from be707e80-08b2-420b-b764-8123d4fdeff8 to 69d69347-c282-40fb-83c6-9039c1d730ec
+[06Apr2025 19:15:23.460] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from bebd290b-7ff7-4526-8a5d-02ab1252a29f to 6e6b42a7-d641-4753-b1ab-75a5eee1db2b
+[06Apr2025 19:15:29.504] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 7a845c53-8aa4-4eab-b71f-3ae413a43b49 to 8ec13358-8211-4d9c-b7ab-7165290d68f0
+[06Apr2025 19:15:29.519] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 68b6ad17-bc0d-4099-bd12-c44942846340 to f566509c-7504-44dd-88b5-f90f747a4606
+[06Apr2025 19:15:29.520] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from ff318721-0d26-42f9-be3e-0b2fa08d244f to 638f63e0-5ad5-4229-a5f1-868b68836755
+[06Apr2025 19:15:29.520] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 1c07ed8e-0856-4455-a7c4-2a6da7d262f1 to e604df87-8792-4c13-ad46-6a6c060fb776
+[06Apr2025 19:15:29.520] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from ac581b95-0237-404f-b5c6-97550dca5d3a to adcb11f0-d4c2-4b60-b9d9-e0969fb53888
+[06Apr2025 19:15:29.520] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 0618cdf7-463b-4ef1-bb71-e0a72ce45a49 to 7eec04b2-f6a3-42fe-8113-4b27aa0bef44
+[06Apr2025 19:15:29.520] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 5a2c020a-711f-463b-afec-db9f8ac095f0 to f1698c25-62d3-4335-8bff-b79609dbeb4e
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 89f9e519-d379-4908-9f17-069fc452d9f4 to 9bc24b26-5d0d-4c1b-9386-1213d4b300ce
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 729f418b-ca31-4552-aad7-23b87fc2e8e9 to 03dcaf1a-7550-434d-9020-ab3a5c24073f
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from f1d08250-a5a8-4202-a6d4-d90e12f93e7d to fed72833-3cbe-40db-91f6-f3e3bdbab186
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 298d98c4-7d1a-41dc-81c7-d1f1a1d00851 to 9a6d21f0-ee9a-4784-ae7c-935a5ecc5346
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton_horse from 458bb36f-7b9c-4c8a-82c7-eee46e80871c to 27947feb-7015-4c22-9b69-3baf94ff2772
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 17337a16-76bd-49db-a58f-421bc1eda1fd to edefa2cf-4014-4067-ae2e-e06ff7e6ec23
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 8e294d53-334f-481d-b9e9-d07f990d3763 to 1eec39a5-8dfc-44c9-914a-33753eaee7ab
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 55928f82-a3e2-42d5-9bdd-c90ac6829a66 to fe27635b-c023-45bb-a023-8c193bb6aae9
+[06Apr2025 19:15:35.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 34f13b7e-4cf0-46e2-bf32-f0b368c7f7fd to d733e47e-b634-481d-acf4-9c92308824de
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 7e2c5e73-3015-4968-bf25-ba244ce949de to 37677547-3d60-48f4-8c89-9998dbe2db80
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from ea82c456-0a55-4354-8583-aaee52c0df99 to 39206bd5-a2b0-445d-97fa-b84be3015dce
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 7ff8ea6a-21d8-45ad-9c29-28ccdda24105 to 3d4546bf-6e75-47be-bee5-26547bfb4324
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 50b99201-a1e7-48a5-a430-b3335e3d871c to bbd3dbcb-e9f6-433f-8378-e04a0a774bcf
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from cabf0ce5-5afd-4fe7-bae5-bac2c0a1709f to 656e2efa-a142-4e78-af23-0a56070676e4
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 972628d2-6ef9-472d-b3a2-7e1ebd3e82b7 to 722f35ca-15e8-446b-80f2-af1975ba214d
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 4bcd4ce4-ead8-46cb-8631-759ea62608f6 to fdf20ab3-f741-4ab4-b050-08cc1f148224
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 4a074d93-cd14-42d0-9c69-622704563b2c to cbda54f9-916a-47ff-ad7c-b8a900941843
+[06Apr2025 19:15:35.570] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 52d8fa4c-0cdc-4ef9-a38d-82d9e9f4d15c to d294e8a5-9043-4db9-bfd5-9089250fdd1b
+[06Apr2025 19:15:38.071] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from f8ed6ab2-8ee6-4896-b94d-a6aa996c6f11 to e4b3e2cc-76b5-4909-9634-d2cd822350c5
+[06Apr2025 19:15:38.072] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from c81905b7-2fdf-4a24-a756-49f164601729 to 84f9c613-4001-4f01-8a5e-0c822446b356
+[06Apr2025 19:15:38.072] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton_horse from fc156fa8-2ad9-4041-9fd3-ac32fa3d7abc to 219b5b72-f768-4810-9b4a-edc00020ff76
+[06Apr2025 19:15:38.072] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 19ba3731-b0e8-4f5a-a75b-7411d136038b to 33b85b3e-ce1a-4ebb-bdc2-c45222667a33
+[06Apr2025 19:15:38.072] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from f26edc48-8505-4fd4-8dc0-6acce0b79ac6 to 05c72266-6e9a-458c-bd1c-7c9ab96fec12
+[06Apr2025 19:15:38.073] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity humancompanions:arbalist from ce5b0da2-c175-4c56-b64a-9fd91c490977 to 9caff7f5-4b7d-484a-89a5-4cb6f1e3d767
+[06Apr2025 19:15:38.111] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 8d09ea53-4a4e-4768-8eec-8dd0a6e332d0 to a018a6df-2c77-4c69-ad24-6ddfcb8c3fe6
+[06Apr2025 19:15:38.111] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 3c892a50-dc30-4919-aae8-a974507d7732 to 5f296fff-bb50-44c4-8296-8812aa08d779
+[06Apr2025 19:15:38.111] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 6ff34af3-4f4e-4482-ac74-0342f94cc97b to ac20985e-b239-4c89-b2c1-b3f24fb6a453
+[06Apr2025 19:15:38.111] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 0f1d7eb7-6078-4092-83e1-8e897f53b377 to 429a17b3-28d1-4d73-b5ed-36eb55237444
+[06Apr2025 19:15:38.112] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from dca04e4f-7df5-4b3c-8b91-392cfb0d5af7 to 86c52b28-647a-453f-b216-5d99cdf4b14e
+[06Apr2025 19:15:38.112] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 5dee07e0-2358-4db7-9139-0555654c3007 to 6f19d062-46d8-4e58-9eae-186c3a8e6b79
+[06Apr2025 19:15:38.112] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from aa1530a7-4200-4c65-9196-8b453e7ae34d to 62bc6cc0-b135-4fd4-a981-3e83cd40abe3
+[06Apr2025 19:15:38.112] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 795bed9f-a082-4cb8-913a-773fe6036cff to 54de24e6-e0d9-48a3-9627-9ae1678e651a
+[06Apr2025 19:15:42.770] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:iron_golem from 23238656-a8c9-47e3-ba4a-0d3ac7f88e7f to bd4ca876-4601-4a05-8874-27c0198294ae
+[06Apr2025 19:15:42.803] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:painting from 2905e3fc-d321-45cc-aa49-fa897ec249ba to 984c761d-b89f-453c-8d23-1c3dbf3d6a00
+[06Apr2025 19:15:42.807] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 6bb40089-f570-4050-b79d-b15f751d6e58 to f004dbd6-3a3f-4083-98a8-b041112c8660
+[06Apr2025 19:15:42.807] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 74830e93-05b0-49ec-9f7e-ee354fe31150 to b8753767-e71d-473e-94cd-ba98e6feaa57
+[06Apr2025 19:15:42.807] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 3e2ad232-4819-4fca-b11f-a80b7a01e58b to e05f3b33-005b-4972-90f5-8d60ed946440
+[06Apr2025 19:15:42.807] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from ec48c865-3719-4063-bd7c-08fc3dc084cd to 4e0a3b2c-7a0b-4e76-80ba-b4aada34941d
+[06Apr2025 19:15:42.807] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from b69c7e4e-2e30-4a68-9c7b-edb1d58b53a1 to 3a7fc624-885d-4eea-8f46-7b5a8264d8a7
+[06Apr2025 19:15:42.807] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 6b52603c-3de2-4e85-acfe-85bc1cbc8c6e to b1220f51-d32b-49e8-b5a1-5a52cd3339a6
+[06Apr2025 19:15:42.807] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from ac68744b-93ca-4bf6-a34b-326331d670f3 to 5880ec08-3d54-4979-a578-b5d061bfa383
+[06Apr2025 19:15:42.809] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 256a90a6-8085-4e0d-a49f-fea300a63c15 to 8c5a69c6-4172-4a4a-8ab8-8d134ca9081b
+[06Apr2025 19:15:42.809] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from cff457d0-0d3f-43d0-94af-317868134a69 to f4004079-6e69-4a9f-9b1e-0042abeb38d5
+[06Apr2025 19:15:42.809] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 8f1867f3-a28e-4aec-ba3f-00da0a3ab1ad to 642ba4fb-6768-4488-bdd1-d09133f7cdf6
+[06Apr2025 19:15:42.809] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 02ac1340-5306-43d4-bded-a02e695aa38c to 03dd3fdc-43a8-4751-8468-3e9d12a5af33
+[06Apr2025 19:15:43.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: danae1108 has made the advancement [Illager Centre]
+[06Apr2025 19:15:50.805] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 9bc3cd44-b647-4519-87aa-fa6fe2dcc971 to 617f4c65-4583-443e-9c95-eb172a381187
+[06Apr2025 19:15:51.332] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:spring_pixie from 44352649-943e-4268-99d0-d14962730ce0 to b45c23d8-95bb-4277-94bf-9da8c176fe46
+[06Apr2025 19:15:51.492] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 39447555-5cf8-43f3-9fe7-2d569f4f16f1 to bedbb8fe-2a50-4e41-af85-1613d2e0b772
+[06Apr2025 19:15:51.493] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 9fce5aef-1205-4263-9f56-a61725c24a9c to 3c1ec7da-df2f-476f-a1c5-4b98ed9c8d4d
+[06Apr2025 19:15:51.529] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:fire_dragon from 89f4f7f8-bff7-45e2-8ae7-486ba62d8782 to 0fb6bdc2-5da2-4317-a59c-be98c44cf92f
+[06Apr2025 19:15:51.567] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 9bef9a4b-76d1-4f8b-a2e2-d73c079c6500 to 6ca59d90-050a-4487-a1c4-c07ec9681199
+[06Apr2025 19:15:58.675] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item_frame from 12b2f158-99cc-4823-bb3c-49541ea71666 to 39c16433-172e-4179-b9c4-d5dca39aab89
+[06Apr2025 19:15:58.675] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item_frame from 9681ee23-73e0-464b-a387-5ce37b6b1b67 to 414ab16b-e3b4-4586-8ed5-96d5782bbd0f
+[06Apr2025 19:15:58.675] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item_frame from 37e68df8-ef24-4484-99dc-b821e99cbb55 to 603eb8d5-343a-48d8-8d66-b1ba7a9ad520
+[06Apr2025 19:15:58.675] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item_frame from b8077be7-74ba-420d-9547-7c7e02766811 to 5be8bf25-6488-4e24-be2f-f3f6690dbca9
+[06Apr2025 19:15:58.675] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item_frame from a4cd9b32-f760-41f9-81a1-aac78dc5b617 to 31b7a7b3-2b4c-4bd6-bdcf-7d2d79ce94e7
+[06Apr2025 19:15:58.675] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item_frame from 9b34bd22-b936-4a40-8e31-b071a9eed5bc to 52a05638-5f8c-448d-a975-80a2305d06f5
+[06Apr2025 19:15:58.675] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item_frame from de9147c8-0e29-4c87-bcdf-71f95b83abdd to 009de8d7-f005-42c9-8c40-38d8ddaa58a6
+[06Apr2025 19:15:58.805] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity ars_nouveau:carbuncle from f9d8ad22-e282-43fc-8bb3-c8b550ca36e1 to ee6d0e62-b427-4be2-9df0-f17d90417a94
+[06Apr2025 19:15:58.885] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 755f8a66-29a0-453c-aae3-f94e72a20530 to cfaffcd6-d48c-4e3b-8acd-4b849b996379
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:armor_stand from ade24921-3dd9-4491-bb1c-46a1617e0188 to fe7ccc28-d2d2-4eb7-840e-1f91e2e14cbc
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:armor_stand from 28f913db-79fd-4618-9371-e4e6fa0a7972 to 03303943-f93e-496c-a26f-a299d07ba44f
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 3f87729d-70a0-4faf-abf9-8a38b34e1ea7 to 307b1551-6919-4996-b78c-b0c88155c7b7
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:zombie from 7861c6bb-3637-4d4d-8640-12ed95924b31 to b840e538-867e-4cce-b0e9-62a5a797dc6b
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 490a282b-66a2-4f11-b670-87dbc3478908 to 72427567-0069-457b-b72f-507414095962
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:zombie from fe1a5380-01a1-4890-8f92-e6ecebe844df to dbf765d1-bfd9-4088-af60-27da963c15e7
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from f74999a3-f551-4b2a-a922-538f4c923c32 to bda5f23a-2786-4257-88e9-77c6f258f1af
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 561e9c36-72f3-42c8-a110-efdd0e824935 to fbf87ab0-fae8-4ef5-8cce-d69055866a2c
+[06Apr2025 19:15:59.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:zombie from af863bce-6362-480f-acef-92b5c58e4b66 to d344905c-2da1-418e-8dcd-c65ad892b123
+[06Apr2025 19:15:59.256] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:summer_pixie from 7b34cec5-23e4-4fff-9bd6-dd854053d4e2 to 72af8a79-a79a-4722-a9b0-fbbef910187c
+[06Apr2025 19:16:13.650] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: ina has reached level 8 in agility! [minecraft:overworld|x:441.59|y:71.00|z:441.71]
+[06Apr2025 19:16:15.001] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: danae1108 has reached level 12 in agility! [minecraft:overworld|x:445.99|y:69.00|z:427.46]
+[06Apr2025 19:16:43.246] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item from 56031c91-5d5c-447d-94d1-ec9cb5c61f6e to 5598e7a5-8d6a-4078-a73e-eaab44abe758
+[06Apr2025 19:16:43.246] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from eefdccf0-bacd-4f59-9d1f-c1ef803c9652 to 0172ff57-e2c2-4f53-ac89-bd85de74ec69
+[06Apr2025 19:16:43.509] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from b2ee2968-5aa6-41a5-a5bb-23574b02d73b to e9b6c7b0-e597-42e3-bd25-1a96bb48617d
+[06Apr2025 19:16:43.509] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 48e656d0-e28f-4451-9bff-542dd38e7d57 to 2327b377-7f30-477e-b928-5ba5f6f0f45a
+[06Apr2025 19:16:43.560] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 080543d8-8689-4ed2-a4e2-9674a768bd64 to 7f68ec5c-c3b7-4d8f-ab2a-1be30fed08d1
+[06Apr2025 19:16:43.561] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from b0bc697b-cad0-4c9a-b970-412e6116a0c1 to 62356d88-0ca1-4bce-aecc-4007198e880d
+[06Apr2025 19:16:43.658] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from a7f0042b-52cc-403d-a092-3b43f66420ee to a6a0c24d-9551-40b1-993d-dcb88c77d12b
+[06Apr2025 19:16:43.658] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from c7492300-55a8-4bf5-9053-b6fa0681ce74 to c4de6d40-273f-4721-b38a-9f31a19e9f0f
+[06Apr2025 19:16:43.658] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from 21921f78-86c8-4ad9-a97f-c3515423580d to e46a3b69-caa1-4271-89e5-9c237d36f775
+[06Apr2025 19:16:43.658] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from 9a8f9800-add0-4a1a-bad4-6cca6e9a68d7 to f34c07d8-459f-458b-bd97-a8d49a757746
+[06Apr2025 19:16:43.659] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from 19d1bd6c-7802-42a4-bf33-a20ee2b00e3e to 4dd5b35b-957d-496c-b717-a2923839902c
+[06Apr2025 19:16:43.659] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from 3c4594c1-f9fd-4e6e-889c-8cee6e43771e to 12e2548e-4e59-46d1-bd55-48431ea58b68
+[06Apr2025 19:16:43.920] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 2f9719ad-908b-4762-9103-e27580ab282f to 4b89e413-b620-4732-aca5-8a5a2fb365e2
+[06Apr2025 19:16:43.920] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 56cab95e-7228-4d3c-a1da-31d2eeb65d11 to 72ace923-79b1-40ef-8549-74f15e32d981
+[06Apr2025 19:16:44.258] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:horse from 08a4dae2-237e-4cde-af71-1cebb44ae9af to 4cefea45-76f4-42c9-ad77-1833008e27bd
+[06Apr2025 19:16:44.259] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:horse from a9e0b8f5-34af-460a-bc9b-f2d41a4373b4 to 0cf6a65c-66f3-4293-8f5e-12f9f4787971
+[06Apr2025 19:16:44.259] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:sheep from 8efbdce4-02d6-480a-84eb-b29353ba1a60 to 5e2b59e6-4fa3-4328-9717-a3b9b781e7f5
+[06Apr2025 19:16:44.259] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:sheep from 43352d16-c221-494d-be67-736c50081ffa to 925e9481-d871-459f-890c-639bd3ba836c
+[06Apr2025 19:16:44.259] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:horse from fc5520c7-9897-4175-bd9d-a41d294b1aff to 085062b1-a6e7-49bd-a558-0fecb84eea59
+[06Apr2025 19:16:44.259] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:horse from 1220b83d-86d5-4501-aac0-f266164debb8 to 2afbcfe1-3c49-41aa-a256-05b9119e4678
+[06Apr2025 19:16:44.260] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from b0bc6f7b-b075-4410-a9ab-5a61ba797adb to 9f8a04a7-d201-4ce8-ae07-53b2cbf2c2cb
+[06Apr2025 19:16:44.379] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:tarantula_hawk from 64b141eb-bfbf-4b09-bc1d-b7296223432e to 5a62854c-035f-4e80-b5ad-86574d02cef2
+[06Apr2025 19:16:45.305] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from d0d163bd-29d4-48cb-82d8-55feb4d263a6 to 2722548a-bfc4-427d-ab03-9251dbf2c3bf
+[06Apr2025 19:16:45.571] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from 2f943d80-3763-45ed-ad61-48c892578bc5 to 7b9bfe96-cb37-469e-8130-81213af3bd09
+[06Apr2025 19:16:45.751] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from e1cfe129-81c2-430b-8032-5cb4a48950e0 to 3f9ed061-b492-4a46-af25-c3f6ca15bcc0
+[06Apr2025 19:16:45.783] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from f974636c-6ade-43fa-b96e-e7ff77899460 to 1a63bf1b-8a92-49b7-93d5-50e325b06b42
+[06Apr2025 19:16:46.165] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from 2e3b9832-7fdf-4ad7-9492-b7435939c930 to 2762c3f9-1bce-487f-b0c9-ee31a52708ec
+[06Apr2025 19:16:46.165] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from 2e14c3c1-55ba-4e77-b367-82b73e348b67 to 073bb037-4405-4f31-836e-5010ce0164f2
+[06Apr2025 19:16:47.311] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 6dc5c586-aa1d-4ed8-8796-9d14733d0c25 to b289bd5e-ba85-4058-aaf5-ec77349ced73
+[06Apr2025 19:16:47.312] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from e50b7bc5-118b-420e-ab26-89fc89ce4ab0 to 64295dca-3ce3-48a9-baa4-a9412c562cc7
+[06Apr2025 19:16:47.984] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cod from d4762bb9-c8c0-452b-a49d-784131bf53b5 to 42ec1166-7e6b-4e77-b460-c89d763c481b
+[06Apr2025 19:16:47.985] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cod from fcdc1017-13b3-4d4a-bfad-9db0b81389c2 to 102e42ba-5a2f-446b-b04c-b7ac04655340
+[06Apr2025 19:16:47.985] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cod from a94b8db6-0c9d-4ee0-818d-61e4495ee7ae to 357f7026-bb62-4373-91dc-a36332138dbf
+[06Apr2025 19:16:47.988] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:drowned from 41ac2d8a-80b3-49c1-8785-e3027404cd3f to c7cd2570-1083-4ffa-a3b5-f7b11b48dd30
+[06Apr2025 19:16:47.988] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:drowned from 3f656d32-2551-42ee-8199-ec8ea08b6e2f to ee85897a-e922-4e5a-b7e5-2ce63a6718cb
+[06Apr2025 19:16:47.997] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:drowned from 650eb4e4-cb28-4278-805f-7b177e3a7914 to 092e8458-470f-4a8e-8bd8-87532550fa3f
+[06Apr2025 19:16:47.997] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:drowned from ac1ad166-82a4-4aa7-8722-2e7dbe95373e to aa3ac181-d9c8-472c-a554-ad2d4668c7c2
+[06Apr2025 19:16:48.004] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from 2a682407-ffe6-4251-9e6f-f13ba64d8d01 to 4ab61264-a912-4791-8182-36b62e070b69
+[06Apr2025 19:16:48.016] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from de2aef72-94ff-4e97-a47a-cfdcc5b587f5 to 7bf6f51f-f152-495d-bf81-9c9d97d4ebb9
+[06Apr2025 19:16:48.151] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 5d9550fe-cf72-4949-8c8b-23e213e26064 to 5b1b438b-2491-4121-8ee5-28a5521af97d
+[06Apr2025 19:16:48.152] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 1b95684f-f4a2-4494-931c-55c2d3b8f61f to 71f24e7b-1d5a-4e57-9e46-cc84c4ce86d9
+[06Apr2025 19:16:55.261] [Worker-Main-1/WARN] [ModernFix/]: The namespace minecraft contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Apr2025 19:16:56.362] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from b2ecce23-4ea5-45e7-9e57-cec813a4b9ec to d256e943-c019-4a92-b92a-030f2034db9f
+[06Apr2025 19:16:56.621] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:armor_stand from be15c63a-6c4d-4fa6-a6d9-fb2af61a878b to a820297f-2b96-47f6-84b8-1f941094dae0
+[06Apr2025 19:16:56.708] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:crow from eff71659-f024-4d85-91cc-0febb3cf1066 to 52f7df0b-84ca-42e9-8ae7-af85dae4edc6
+[06Apr2025 19:16:56.708] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:crow from 983b7819-a147-4dbe-8917-a6a52762101e to 30d20859-a4e2-4b0a-9985-d25cb6ec47a1
+[06Apr2025 19:16:56.708] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:crow from aee2e599-bce8-4a46-8a8a-dc2ef6142893 to fbb0c6e4-f50a-4761-a0a2-abbf232bd73e
+[06Apr2025 19:16:57.002] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:summer_pixie from 0e34afc0-123d-4a28-aec0-73d8d24538c2 to 1e1497ff-81e7-49d8-9050-53da6f54797f
+[06Apr2025 19:17:13.956] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:painting from 661cce60-7348-4a6a-89fc-dd5f7a3ca0e6 to d130d5d4-6b8d-45ea-bab5-ea1448554128
+[06Apr2025 19:17:13.956] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from ce292595-d8b1-4f87-93dc-d6c19f751667 to a2f8c4a7-e5a5-4e99-9b6e-ade63665e7f6
+[06Apr2025 19:17:13.956] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from 18053936-1ae1-415a-80a6-4b07be825e24 to 1899b061-c9a4-4fa5-a247-4204971ebcf5
+[06Apr2025 19:17:13.956] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from bef9ac0c-11ac-431a-b82c-143b88459f11 to 383ade4b-8967-45fa-abe9-7dc21cf0a413
+[06Apr2025 19:17:13.957] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from dbc70240-db61-4d65-8093-c552e877962d to 9324571b-0eec-4b69-8129-70b18764faef
+[06Apr2025 19:17:14.001] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:painting from 611ae2df-3d78-4eee-a2bf-b47483b3c200 to ebf9cd2c-acf1-499b-bbac-7c9175b676f6
+[06Apr2025 19:17:14.001] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from d5f6f84a-0275-42aa-8b19-d686142a9f28 to 4bc72311-cfd8-4842-a6cd-a96294d150b1
+[06Apr2025 19:17:14.001] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from 57f2a914-b6ee-4112-8bcf-c4bd0e5ee237 to 8870564e-2cea-4a90-9c30-97db3bda5057
+[06Apr2025 19:17:14.001] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from 378c914b-d283-4f14-8dec-df64622d06cc to 2feed25c-03b6-4fec-96a6-b600e4418fa9
+[06Apr2025 19:17:14.019] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from da816ced-b507-4fb8-80ee-b5929a3f2b3d to 09e26ff3-d8d7-4be3-8a20-9a0df55f04ff
+[06Apr2025 19:17:14.019] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from 8a92ee60-8796-4d12-9fcf-0e5c57f64856 to fc9ca490-4e1a-495c-a69f-a79994e42b9d
+[06Apr2025 19:17:14.019] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from d129f3fc-427b-498d-b328-2927bb202ee8 to f030a62c-4129-4d0f-94ba-62f7a64f5d4a
+[06Apr2025 19:17:14.019] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from 26acb623-7f7b-4cc0-ae71-6279be2e0a98 to 217b874d-bae0-4b38-a688-16dfc142b123
+[06Apr2025 19:17:14.020] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from da9b97a5-8a55-472d-9698-98365ee4640c to 54c38f44-fd22-4487-bdee-b04ea26973ac
+[06Apr2025 19:17:14.063] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from df62dac2-2e2f-4126-9a28-45104f5821b4 to 1bbe52b3-df26-4e5a-8397-f4a9c1b48c27
+[06Apr2025 19:17:14.116] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from e24afaf2-0441-4d2d-9d26-eb1d57df0cb0 to 51c15051-d7b3-4a2d-9681-76292c676328
+[06Apr2025 19:17:14.116] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from cbf6aed0-682b-4912-8e68-01726ba0f3b6 to 72d915ea-74ec-4050-9d6c-ea7236f41e69
+[06Apr2025 19:17:14.119] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:painting from 76a916e4-7106-4e84-83cd-bcc37aa64264 to 33bf31a9-697a-41db-bfac-c783db3f45da
+[06Apr2025 19:17:14.119] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from 1acc1ebc-860f-4982-9b95-2b0e7e0ff893 to f1677397-d242-45df-8c23-4ad5c0d025fc
+[06Apr2025 19:17:14.119] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from 6d04e082-126d-47af-b684-3e3f84a1f877 to 23614366-658c-45de-aa08-4ebeaef4836f
+[06Apr2025 19:17:15.135] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from 2463a4fd-63b7-4589-934d-ef7e8976e9ba to ecd20e6b-1036-4d7c-a96c-92180a3373c9
+[06Apr2025 19:17:15.135] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from c3eb3d81-9e01-4607-ba73-77d92863a8fa to 709a11e9-45bf-4175-9fb7-561e97d46fa8
+[06Apr2025 19:17:15.135] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from 2a6f03ff-5310-43cd-a070-bc22257b6329 to 6e850594-50e3-41d1-88c5-769e00fcf20a
+[06Apr2025 19:17:15.160] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from cf498464-b526-4546-a594-9e3383c29f02 to 6d7c6a53-1281-4b56-a61f-604bf43838db
+[06Apr2025 19:17:15.161] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 31d1a08c-df89-4836-970d-e4bbc91bfed5 to d9c98148-5747-4c3e-ad2d-8971a561facf
+[06Apr2025 19:17:15.185] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 4f5507f6-961d-4f60-9e4d-afafd3dff377 to d2d12f0d-b996-402a-89a9-50d132262672
+[06Apr2025 19:17:15.311] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from 7b35b06e-8cb6-4ce9-bef5-d2c1e651dfb0 to 39944f40-8edc-4756-b502-66c1d9d4fe7c
+[06Apr2025 19:17:15.311] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:raccoon from 11e84ccd-85fc-4630-8b05-9fb072fdd648 to fce33c41-c62f-4d0d-b44f-249f536c2769
+[06Apr2025 19:17:15.320] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seagull from e1d16d12-835c-4ebf-bd37-4a1559f083a6 to b9db8f3a-b40b-415e-a6e0-766101aa7a49
+[06Apr2025 19:17:18.562] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from ced0dca4-d039-4de8-92f2-6d3d00891df9 to eb335c60-5431-4a0f-85f8-3a898c0db0d4
+[06Apr2025 19:17:18.960] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from cd7bc34e-7226-4e22-9d2e-f34d3c238573 to f0456f77-89ec-4ed1-84ab-3c4509f63ec1
+[06Apr2025 19:17:19.012] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from c71547dd-13a0-403b-9cf2-27179d82eb9d to d2064c9a-c7c0-44b5-83e6-2bc9941eec57
+[06Apr2025 19:17:19.013] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 805243aa-e6eb-481d-a24b-2d8cd5643599 to 8041f93d-6d03-4cde-8c1f-3906ad5b0643
+[06Apr2025 19:17:19.014] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from b030df5e-3483-4081-97e9-b50ca1d74352 to 38fed16a-293e-4a78-9ab4-347b8f6736ac
+[06Apr2025 19:17:19.402] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:autumn_pixie from 92c1c3dc-8d44-4d67-b053-1f4232d247b2 to 56e1ed53-1dcf-43e8-968f-5a6660c65b84
+[06Apr2025 19:17:19.456] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:crow from 657feb09-f0db-4e83-bb9f-ec652b424602 to 1635db08-055e-4344-9cab-2c1e9e64ee21
+[06Apr2025 19:17:19.456] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:crow from ee4214b5-98b2-48bb-bc5c-5451f98f3415 to 32fcb085-d16f-4a05-9baf-fbc45c52d00b
+[06Apr2025 19:17:29.155] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 9c1ffafb-0a0c-4ca4-b53a-450925f56521 to 1182b9f4-5814-4bfb-9c6c-0e18458c9117
+[06Apr2025 19:17:29.233] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 0d4a2868-0c3f-480c-b5b0-a87b642101ac to 6e774829-71b9-4580-b591-76a6a0ca82b4
+[06Apr2025 19:17:29.247] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:iron_golem from 27391f03-5ba0-48f9-a01c-be971fa35aa8 to 1fe56372-5855-40f0-8233-122dd8dd2c84
+[06Apr2025 19:17:29.247] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from d275e404-05be-425d-ac8f-898d5c9b4fb9 to 05be6690-f964-4f58-a62c-4338af83f62e
+[06Apr2025 19:17:29.247] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 10036f04-bc4b-47ef-aa3d-9cbe866ec36c to f344c606-f214-486d-8035-550e03241a72
+[06Apr2025 19:17:29.464] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:satyr from d6701797-03d6-4217-bcf0-a70feb00b8d7 to aac58795-044c-45be-8920-a8c8e793377d
+[06Apr2025 19:17:29.465] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:satyr from 2de39fb4-0b12-4af6-a699-76cceced977d to 4ef32e00-5ae9-4d2d-98db-10c8518a107e
+[06Apr2025 19:17:29.465] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:satyr from ec077e5e-be8d-49bb-add5-714994d72ea3 to 491d1d14-fed8-4e9b-8e8b-fe4820895478
+[06Apr2025 19:17:29.465] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:satyr from 0e8d0f31-909f-4016-af54-f506e9a2c4b1 to 2daab9ec-7538-48e2-bfd8-655065437e59
+[06Apr2025 19:17:44.315] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from f6a02b4f-29b3-4d77-b303-00f3fd06880a to c0f1cb6f-db02-4a08-9615-7acd283c224c
+[06Apr2025 19:17:44.417] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:satyr from 55ea79aa-0e82-469a-a368-727d5589bd07 to c9f3df1d-a4e7-4eb0-bd66-b0fe0e7e3c4b
+[06Apr2025 19:17:44.417] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:satyr from 3a9a4fe7-b978-4759-9c6a-fdbb5a0d6425 to c706b60b-d4a6-44d3-8394-96123e5053f7
+[06Apr2025 19:18:03.203] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: danae1108 has reached level 13 in agility! [minecraft:overworld|x:383.90|y:99.00|z:594.76]
+[06Apr2025 19:18:27.809] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ff74117f-6d07-4c38-b858-06deeeef2e57. Existing rats:rat#20880, new: rats:rat#20880
+[06Apr2025 19:18:28.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:lampad from 8ad6afe1-e9b2-4d6f-a8e2-cf0ad588ff07 to 0627fe2c-4fdb-45b0-a120-790e1ce689ab
+[06Apr2025 19:18:28.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:lampad from bb4938a0-9f4d-4f10-a15f-4a1035fb8a06 to c7fcdbd0-9a01-4b01-b0f2-f8f3857fe0ce
+[06Apr2025 19:18:28.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:lampad from a3b5fd9f-e8d2-4b0b-8f1f-12697bc99e61 to 65820771-83e2-436e-8041-e221235d5b68
+[06Apr2025 19:18:28.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:lampad from 8bfa5358-5d53-4ed7-a0d4-b8f0e05c531a to 657983ae-2083-4a46-b32b-fdf5a7d6baf7
+[06Apr2025 19:18:28.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:lampad from 495441c8-7b67-4415-9f18-e41a9968ff8c to c3ef2f90-22b2-466c-b14f-b8b9c5b9fa83
+[06Apr2025 19:19:36.263] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:armor_stand from 5730513d-9158-4efa-8fb7-2e828190e55a to a3fdb912-8970-448f-828b-c1be985fd5f0
+[06Apr2025 19:19:46.751] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from e823dce9-d2d1-4543-a7a5-0658c97fe86a to 3e91b3e7-8429-409d-b567-09c268b0f292
+[06Apr2025 19:19:47.258] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from d003d4ff-98b2-456c-80ab-08fa2bcf1fb3 to 2880d875-bce5-4278-b88f-c39771fc7d06
+[06Apr2025 19:19:47.258] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 22ff8a09-fddd-4777-becb-b872b38bdf14 to 4b27af20-b5fb-41ea-85b7-4b05453a503f
+[06Apr2025 19:19:47.314] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 4c1ede14-b165-48e2-a948-1e30233a32d1 to f5202bcd-cd3a-45d6-800b-15edf05ff9df
+[06Apr2025 19:19:47.314] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 0b3552d6-4c6f-4d31-9d80-0c85cebf4ffb to d0c7fda7-5f6f-42b1-89e9-13b2f2112fc7
+[06Apr2025 19:19:49.904] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from c857b524-86cf-4ebe-9702-8bc2dda99f1f to ec75971a-c7e3-4c2f-8670-1ed5e5698af1
+[06Apr2025 19:19:49.905] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 2ed41b19-a0bd-4a9b-93bc-49f7568f4f61 to 30a73227-d6e1-4e40-9273-64e06f269b7c
+[06Apr2025 19:19:53.512] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:summer_pixie from 8db09eca-ca4b-4bd6-a914-f45666388cff to 036754dc-5442-413d-b761-e8845a56aa08
+[06Apr2025 19:19:55.109] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from d1db0630-6be1-401f-9300-86e29125a7cf to 91d69a18-2626-4d5e-9021-8203a021ba44
+[06Apr2025 19:19:59.148] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 114a75b4-22a7-4999-8fb8-2015c87707b2 to 7182c297-6405-4170-8def-01d2c187a2c4
+[06Apr2025 19:19:59.333] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity mowziesmobs:ferrous_wroughtnaut from 2fc0f25e-510f-4699-a031-436a60480dec to 6f2f522d-920e-40c3-a84b-597aec474e17
+[06Apr2025 19:19:59.414] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from b22c564a-011a-4e7b-bc43-c1e9eb00bee4 to 60343d55-4411-4c68-9117-eebfbad07918
+[06Apr2025 19:19:59.436] [Worker-Main-2/WARN] [ModernFix/]: The namespace dungeons_plus contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Apr2025 19:19:59.553] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: danae1108 has reached level 7 in endurance! [minecraft:overworld|x:394.40|y:101.00|z:556.36]
+[06Apr2025 19:20:23.413] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from 1178d68f-516a-4427-9363-cb4d2283613a to 5adb6ae4-b892-4b9c-b382-7d056b628284
+[06Apr2025 19:20:23.413] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from e93a089f-cfab-40e0-877a-ae621f1f2f1d to 916e0e21-900a-477e-a383-28ef71901fcd
+[06Apr2025 19:20:23.453] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:harpy from 59946ed3-5aeb-47cb-ae1a-fa6240867b0c to 272f1cfb-807a-4e08-aab5-aa47a0890b2d
+[06Apr2025 19:20:23.457] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from a8c5a747-96e7-4c1a-8c73-7bdddbba36b3 to 36906690-e5f6-403c-a880-b0248907fefd
+[06Apr2025 19:20:23.457] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 48dd1fee-f511-4e19-b694-9df6e992e1e5 to 28c40df5-e489-4f9d-850c-e34944d49246
+[06Apr2025 19:20:23.457] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from d2511013-daf9-43c3-8607-3a14419daef8 to b8a46d36-ba9f-4ee0-a2bf-2acae0adca98
+[06Apr2025 19:23:43.849] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[06Apr2025 19:23:43.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[06Apr2025 19:23:44.047] [Thread-154/INFO] [FTB Utilities Backups/]: Backing up 261 files...
+[06Apr2025 19:23:44.049] [Thread-154/INFO] [FTB Utilities Backups/]: Compressing 261 files...
+[06Apr2025 19:23:49.259] [Thread-154/INFO] [FTB Utilities Backups/]: Done compressing in 00:05 seconds (83.7MB)!
+[06Apr2025 19:23:49.259] [Thread-154/INFO] [FTB Utilities Backups/]: Created /workspaces/rpg-mardito-playit/servidor_minecraft/backups/2025-04-06-19-23-44.zip from /workspaces/rpg-mardito-playit/servidor_minecraft/world
+[06Apr2025 19:23:49.261] [Thread-154/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:05! (83.7MB)
+[06Apr2025 19:30:01.304] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 38fb5cb7-4182-4743-8476-482bd2d40e99 to 1208a49b-1b68-49e3-8f00-16f70d6b771a
+[06Apr2025 19:30:01.304] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 7a11ebaf-f5d7-4ff2-8239-94f4115d369b to 833c5a2c-5a96-48de-9b54-96723771a8e2
+[06Apr2025 19:30:01.313] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:hippocampus from 16a87fd7-d458-48f7-9087-c6f98bdd3ce2 to fcb56d74-bcf1-42d7-916a-599fa972dc86
+[06Apr2025 19:30:01.313] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:hippocampus from 9b179b73-23cd-4abb-b7aa-14e05669e61c to fb8aa38c-f711-435b-91fc-8848da32a8f3
+[06Apr2025 19:30:01.563] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from a7dd9d63-0b44-45d0-9ac3-035af6640a41 to 91da8f54-4c94-476a-b59b-ad7a6dc4077c
+[06Apr2025 19:30:23.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ina has made the advancement [Sweet Dreams]
+[06Apr2025 19:30:59.410] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: danae1108 has reached level 8 in endurance! [minecraft:overworld|x:352.50|y:68.69|z:650.50]
+[06Apr2025 19:31:05.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: danae1108 bled to death from injuries caused by Gatekeeper
+[06Apr2025 19:31:05.082] [Server thread/INFO] [tombstone/]: The player danae1108 has successfully been saved
+[06Apr2025 19:32:11.611] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:summer_pixie from 6d172ed8-b8a9-4f74-bc73-1ab0a8b570c7 to ad8239fb-98f8-45b2-b1ad-fda916db8935
+[06Apr2025 19:32:11.613] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 7dafd26b-6f80-4ad4-9a0a-0c50f846a609 to e5774fca-ffe6-4600-b1ab-5b1c457f0d82
+[06Apr2025 19:32:11.613] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from e3f58102-938e-4815-9166-df7b0cfe54e9 to 6111d51d-f7e9-4bf3-86ea-bc8a22e1cdea
+[06Apr2025 19:32:11.715] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity feywild:summer_pixie from a14701be-6c06-4613-8100-95d767b03897 to 86cda7af-afa1-48f2-ae8c-da0187d4d330
+[06Apr2025 19:32:11.954] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:mad_cow from fd6c138f-aa75-4f2b-863e-ed59af2a20e6 to 39cc501c-7dfb-495f-bf6a-440a812127a4
+[06Apr2025 19:32:11.987] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seal from d2ecdc43-3795-426b-8e63-dbff90c169e0 to 7ae3e79f-a0a2-410c-87a9-490c44a25ab6
+[06Apr2025 19:32:16.017] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seagull from 74dcff70-e59a-4cf5-95a3-2aa992e7b9f2 to 3b901623-3485-4aee-8d02-4cedb84d29cb
+[06Apr2025 19:32:16.155] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seagull from 7eb0fe58-1dcc-4d74-9535-24df43261219 to 52e66c78-39ad-400f-b9ff-76ff72b76253
+[06Apr2025 19:32:16.155] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seagull from b649a282-da5a-4f18-b654-de9c364f46ba to 8eff9ee3-f148-49c9-9fee-da195873511b
+[06Apr2025 19:32:16.155] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seagull from a528aed5-2253-45a7-8eb4-fb3c7841e198 to 545b63dc-ca08-4330-970c-7b022be252df
+[06Apr2025 19:32:16.155] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seagull from 3f4e1e1f-634c-4d47-98ba-7e39f7481726 to a8dcfb13-dea1-4dd0-8edb-d915e3475a23
+[06Apr2025 19:32:16.158] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 238494d7-c782-41cd-9c87-6516f5c8dc08 to b55aa0b5-3c23-4d97-95fe-dd22cc1b7e42
+[06Apr2025 19:32:16.159] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 42b2540f-13b0-41fe-ba33-273515fc6102 to 079a70ed-64b8-4014-ad52-52932833e7c6
+[06Apr2025 19:32:16.159] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 24652bb3-4d55-4ab5-93e4-7eb8e155ad0b to 433b7fab-eef4-42e2-abf6-4ed05a69adfa
+[06Apr2025 19:32:16.309] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity eidolon:zombie_brute from 6de75ecb-7387-4512-89dc-0bb374b0d10c to 92b228ab-8cd1-4d5e-836b-2ae30a6979be
+[06Apr2025 19:32:16.316] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 80d94dbf-3e91-45c4-9a60-5c9b47e4b700 to 666adbb0-f7b9-419f-aa51-f35e1b5a019a
+[06Apr2025 19:32:18.994] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seal from b869456d-9622-41b4-bbc3-4ae71f6215eb to c796e911-3326-48a7-93e9-727c7465b314
+[06Apr2025 19:32:18.995] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seal from a0e5375c-faf9-425c-b8b3-a791fc1eb98e to 5a5b1275-bd35-4dd5-804f-38858e251d45
+[06Apr2025 19:32:18.995] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seal from 86818d40-dbfa-4577-8873-5d7758b66880 to c84fe3e1-bef7-4d9e-a01e-467771acf0a9
+[06Apr2025 19:32:20.017] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:crow from 7004b1a2-2e56-4793-b7a0-104a7e2ccf3c to 9cc018f3-34ae-4b7c-a37b-3ee35edba837
+[06Apr2025 19:32:20.017] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:crow from 8a730974-5407-46b2-b6b6-5c255a2be5ee to 10119266-a3be-4325-a338-411404b02fb1
+[06Apr2025 19:32:20.017] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:crow from 0541e10c-a113-4a8a-96c1-50256cd91358 to 0b899fe3-083b-4900-90b8-d27509341b3c
+[06Apr2025 19:32:20.108] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from 59e21be3-2286-479d-9657-ebd71ff73c72 to 0a65a1ee-a1a5-4dd4-90e0-7a3354194433
+[06Apr2025 19:32:20.108] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from c951ff43-bcea-4e5f-ade0-5ff1ff8f5869 to e54d4844-952a-49c2-8ddc-f32000d3df37
+[06Apr2025 19:32:20.108] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from 79b87c88-f13d-40c8-9122-57f5be32461a to 09b3f04a-96ba-4275-bd47-17db37f75f8a
+[06Apr2025 19:32:20.108] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cow from 38988c1b-c8f5-4847-b95d-15b744e9cdf9 to e412e7dc-007f-4097-9223-ed2e352dbb9d
+[06Apr2025 19:32:20.777] [Worker-Main-3/WARN] [ModernFix/]: The namespace workshopsofdoom contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Apr2025 19:32:21.969] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:sea_serpent from bb2e824f-ef7f-46b8-a637-d76277112bc2 to 223e984d-b577-4886-b701-6eb60485e6e7
+[06Apr2025 19:32:27.217] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from e6b8ee63-c241-4cdb-a37f-eaf04ff647c6 to f6b4ddaf-96e6-4a47-8201-01c8b04f94f7
+[06Apr2025 19:32:27.217] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from ca59f1fd-916f-4e78-a313-3932598d220d to 3ee30e53-2098-4cba-855b-b292ad8799cc
+[06Apr2025 19:32:27.365] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from d430b991-6946-45a6-b277-b08b6dfc0afa to b146768b-4c97-480f-b90a-9f81e1397b64
+[06Apr2025 19:32:27.365] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 4e0b3348-0335-4cdd-9d75-70d715b74bac to 5d324cb6-3f61-4378-b000-36e402700892
+[06Apr2025 19:32:34.114] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 8ac12b6e-9f76-4603-8ef2-9021d40435b7 to 6932617d-78f8-4a20-b305-2accdb980914
+[06Apr2025 19:32:34.114] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:roadrunner from 1661d4c2-78fe-4fe9-aa51-1b5f78b8bb8d to 3eb21058-98bf-4b5a-af16-3f3cd0d55ae4
+[06Apr2025 19:32:38.009] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:ara from b56a6f50-aba7-4af6-ab8f-6702e01419ad to 16033458-d908-4a1d-834e-568277fc10ce
+[06Apr2025 19:32:38.010] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:ara from 66eb1f30-9811-4cb0-9509-533ec1bd0ea9 to 05592520-a6f1-4fb0-a53a-5fdb2fe46642
+[06Apr2025 19:32:38.064] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:centaur from a00639c3-6198-4498-82b6-5b70ce8f06ee to 7c080035-7adc-45a1-b02b-0c5dc8e99c6b
+[06Apr2025 19:32:38.064] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:centaur from 34573207-1848-48ab-8c6e-60d1ccfbec6f to 2198c276-e09c-4afb-8ef2-6e1b14d1147f
+[06Apr2025 19:32:38.064] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:centaur from fb4f6303-b604-4b38-951d-38028dfd0b01 to da46f5ee-73c0-48b7-b5b9-e57fca583b58
+[06Apr2025 19:32:38.064] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:centaur from 10041828-796e-45d0-8ca9-33f04b5a82a6 to b084f7c8-2781-4972-a57f-00fd957d1a44
+[06Apr2025 19:32:40.618] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:fire_dragon from 33bae039-b2de-4ff4-b445-40a721a6e00a to 51701aa2-29af-4860-aa8c-32eb8a7ea118
+[06Apr2025 19:32:40.758] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 7e3cd4ba-2509-4fe6-b798-e81d63f691af to e8ee2904-e82f-4b80-8d2c-81abebcefd8b
+[06Apr2025 19:32:46.058] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:hippocampus from 12f813a7-059d-4ee5-aee1-634c6d4e0955 to 7dc20c33-884f-4d11-be27-960b4c0393c0
+[06Apr2025 19:32:46.171] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 10505d1f-d3dc-436b-a33b-41041783e82d to 7e7d9b24-7966-4844-8985-cbed61736c24
+[06Apr2025 19:32:46.171] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:rattlesnake from 965726c7-09da-4e72-8372-0a3cb955cbd9 to 4a12d5ca-b09a-4d32-8ff2-29294aee2a7a
+[06Apr2025 19:32:59.632] [Worker-Main-3/WARN] [ModernFix/]: The namespace quark contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Apr2025 19:33:01.662] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from d2aa6e2b-cc50-42e5-8b2d-02e74aa2e018 to f227109c-b511-400f-9c0a-5eb0c902e233
+[06Apr2025 19:33:01.662] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from a4950368-3bf8-4d58-bde2-925d031033e2 to d66ed452-91ce-47a0-ab4b-37f5deef5c02
+[06Apr2025 19:33:01.663] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity greekfantasy:cerastes from b1d0e923-ea6a-443e-8447-6e9e2a54fa67 to 9f8175ed-5806-4eea-a44a-1c8a0ec5a0b0
+[06Apr2025 19:33:02.145] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seagull from 75a807d6-b376-4b53-8f39-24ab5670c3d9 to 68ffaafa-6176-4e2b-8bd2-8805aededd2c
+[06Apr2025 19:33:02.145] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity alexsmobs:seagull from b4c4df96-2f71-46a8-8468-78e59c3d2fec to f6d89e17-70ea-4f0d-9288-9c2cb88ff3e5
+[06Apr2025 19:33:03.093] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton'/19562, l='ServerLevel[world]', x=21.37, y=36.77, z=763.83] to SunkenSkeletonEntity['Sunken Skeleton'/23403, l='ServerLevel[world]', x=21.37, y=36.77, z=763.83]
+[06Apr2025 19:33:19.714] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=177, y=38, z=1143} but found not block entity block Block{minecraft:stone} at location
+[06Apr2025 19:33:19.715] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=177, y=38, z=1143}
+[06Apr2025 19:33:19.716] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=175, y=34, z=1141} but found not block entity block Block{minecraft:stone} at location
+[06Apr2025 19:33:19.716] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=175, y=34, z=1141}
+[06Apr2025 19:33:19.966] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:hippocampus from 604911fa-1811-4ef7-b47c-67f8d438c92d to c42d47b4-177b-4019-ab20-31508a854f5c
+[06Apr2025 19:33:19.966] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:hippocampus from b8cc688f-d2c1-4551-954a-c7da719e17f9 to bc0a0f1d-09f1-4b69-804a-08f4e170c9f4
+[06Apr2025 19:33:19.966] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:hippocampus from 53a98198-1b00-4acb-9055-c3a2a5a0cca6 to e92af7b7-eaa6-44a1-bf6f-06b3490dbf0c

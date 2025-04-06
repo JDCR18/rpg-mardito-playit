@@ -1458,6 +1458,12 @@
     },
     "done": true
   },
+  "illagers_plus:find_centre": {
+    "criteria": {
+      "fortress": "2025-04-06 19:15:43 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
