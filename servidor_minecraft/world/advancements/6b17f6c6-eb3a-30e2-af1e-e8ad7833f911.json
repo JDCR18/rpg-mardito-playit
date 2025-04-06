@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_green_oak_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_beech_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/terracotta_brick_wide_post_from_terracotta_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -200,6 +212,12 @@
   "mysticalworld:recipes/mysticalworld/ingots_silver_to_9_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -302,6 +320,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_tin": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -440,6 +464,12 @@
   "takesapillage:root": {
     "criteria": {
       "always": "2025-04-06 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -726,6 +756,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_jacaranda_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/virid_jadestone_wall_from_virid_jadestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -753,6 +789,12 @@
   "mysticalworld:recipes/mysticalworld/pearl_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -1056,6 +1098,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_hellbark_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -1092,9 +1140,21 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_larch_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_wall_stonecutting_glowing_nature_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -1113,6 +1173,12 @@
   "supplementaries:recipes/crank": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -1143,6 +1209,12 @@
   "usefulhats:recipes/combat/lucky_hat": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_mahogany_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -1191,6 +1263,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -1278,6 +1356,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_mahogany_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_iron": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -1317,6 +1401,12 @@
   "enigmaticlegacy:book/misc/infinimeal": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -1419,6 +1509,12 @@
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -1527,6 +1623,12 @@
   "undergarden:recipes/undergarden_group/grongle_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -1734,6 +1836,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_larch_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -1827,6 +1935,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -2112,6 +2226,12 @@
     },
     "done": true
   },
+  "betterdefaultbiomes:this_is_new": {
+    "criteria": {
+      "betterdefaultbiomes:kill_desert_bandit": "2025-04-06 03:17:48 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -2145,6 +2265,12 @@
   "betterendforge:recipes/misc/black_dye_from_shadow_plant": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -2340,6 +2466,12 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_wisteria_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/decorations/vanilla_red_mushroom_block_from_full_red_mushroom_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -2349,6 +2481,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -2493,6 +2631,12 @@
   "tropicraft:recipes/tropicraft/scale_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -2952,6 +3096,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_fir_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -2961,6 +3111,12 @@
   "undergarden:recipes/undergarden_group/masticated_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -2991,6 +3147,12 @@
   "bountifulbaubles:recipes/bountifulbaubles/resplendent_token": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -3042,6 +3204,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_holly_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone_slab_stonecutting_glowing_nature_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -3075,6 +3243,12 @@
   "mysticalworld:recipes/mysticalworld/red_mushroom_wall_from_red_mushroom_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -3150,6 +3324,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_mallorn_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -3159,6 +3339,12 @@
   "blue_skies:recipes/blue_skies_dungeon/poison_stonebrick": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -3462,6 +3648,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_umbran_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "good_nights_sleep:recipes/gns_items/positite_gem_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -3624,6 +3816,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_mallorn_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/cherry_chest": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -3672,6 +3870,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_dead_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/blue_dye_from_nightcress": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -3681,6 +3885,12 @@
   "betterendforge:recipes/betterendforge/end_lotus_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -3723,6 +3933,12 @@
   "mysticalworld:recipes/mysticalworld/pearl_wide_post": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -3876,6 +4092,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_apple_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_misc/diopside_gem_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -3930,6 +4152,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/polished_taratite": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -3951,6 +4179,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -4254,6 +4488,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_magic_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/blue_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -4362,6 +4602,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_mallorn_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -4407,6 +4653,12 @@
   "betterendforge:recipes/betterendforge/leather_wrapped_stick": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -4458,6 +4710,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_jacaranda_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "bountifulbaubles:recipes/bountifulbaubles/disintegration/magic_mirror": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -4503,6 +4761,12 @@
   "tropicraft:recipes/tropicraft/purple_chair": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -4572,6 +4836,12 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_cherry_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -4633,6 +4903,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_palm_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -4654,6 +4930,12 @@
   "betterendforge:recipes/betterendforge/umbralith_polished_from_umbralith_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -4690,6 +4972,12 @@
   "constructionwand:recipes/tools/infinity_wand": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -4879,6 +5167,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_lairelosse_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/soft_stone_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -4930,6 +5224,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_magenta_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -5023,6 +5323,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_magic_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -5101,6 +5407,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_rotten_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_frog_legs_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -5146,6 +5458,12 @@
   "minecraft:recipes/decorative_blocks/dried_grass_block_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -5317,6 +5635,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_hellbark_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -5383,6 +5707,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_charred_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/planter": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -5422,6 +5752,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/spear_silver": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -5491,6 +5827,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_redwood_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -5521,6 +5863,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_redwood_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -5542,6 +5890,12 @@
   "betterendforge:recipes/betterendforge/lucernia_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -5596,6 +5950,12 @@
   "betterendforge:recipes/misc/orange_dye_from_orange_charnia": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -5668,6 +6028,12 @@
   "mcwbridges:recipes/balustrade_orange_sandstone_bridge": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -5809,6 +6175,12 @@
     },
     "done": true
   },
+  "mining_dimension:recipes/decorations/teleporter": {
+    "criteria": {
+      "has_log": "2025-04-06 03:18:23 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/hydralux_petal_block_brown": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -5860,6 +6232,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/oak_post": {
+    "criteria": {
+      "has_item": "2025-04-06 03:18:23 +0000"
     },
     "done": true
   },
@@ -5917,6 +6295,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_redwood_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/vegetable_juice": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -5941,6 +6325,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_cedar_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/sulphuric_rock_pillar_from_sulphuric_rock_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -5950,6 +6340,12 @@
   "usefulhats:recipes/combat/mining_hat": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -6109,6 +6505,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_maple_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/trough": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -6235,6 +6637,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_mahogany_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_netherite_smithing": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -6244,6 +6652,12 @@
   "undergarden:recipes/undergarden_group/smogstem_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -6307,6 +6721,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_hellbark_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/cherry_pie": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -6355,6 +6775,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_lebethron_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/spear_lead": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -6388,6 +6814,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -6688,6 +7120,18 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/smooth_midnight_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -7159,6 +7603,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_magic_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge_stair": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -7225,6 +7675,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_aspen_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/azure_jadestone_bricks_from_azure_jadestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -7235,6 +7691,12 @@
     "criteria": {
       "has_parent_recipe": "2025-04-06 02:32:42 +0000",
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -7520,6 +7982,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_palm_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_pickaxe": {
     "criteria": {
       "has_parent_recipe": "2025-04-06 02:32:42 +0000",
@@ -7575,9 +8043,21 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_green_oak_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -7659,6 +8139,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-04-06 03:18:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -7668,6 +8154,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -7713,6 +8205,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_jacaranda_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorative_blocks/dark_oak_branch_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -7746,6 +8244,12 @@
   "betterendforge:recipes/betterendforge/sandy_jadestone_tiles": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -8157,9 +8661,21 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_fir_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/epic_squid": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -8253,6 +8769,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_aspen_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/red_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -8329,6 +8851,12 @@
   "undergarden:recipes/undergarden_group/grongle_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -8560,6 +9088,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_cherry_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/lore_inscriber": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -8569,6 +9103,12 @@
   "undergarden:recipes/undergarden_group/gloom_o_lantern": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -8686,9 +9226,21 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_pear_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tropicraft/bamboo_item_frame": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -8707,6 +9259,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -9065,6 +9623,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_aspen_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "good_nights_sleep:recipes/gns_items/negatite_gem_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -9173,6 +9737,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_palm_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -9200,6 +9770,12 @@
   "mysticalworld:recipes/mysticalworld/blackened_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -9248,6 +9824,18 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -9398,6 +9986,12 @@
   "mysticalworld:recipes/mysticalworld/ingots_copper_to_9_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_beech_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -9662,6 +10256,12 @@
   "mysticalworld:recipes/mysticalworld/cooked_venison_from_smoker": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -9947,6 +10547,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_fir_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_misc/cooked_horizofin_tunid_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -10004,6 +10610,18 @@
   "betterendforge:recipes/betterendforge/terminite_bulb_lantern_white": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -10223,6 +10841,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_mahogany_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/nuggets_silver_to_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -10238,6 +10862,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/mossy_lunar_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -10662,6 +11292,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_lairelosse_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/stripped_starlit_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -11052,6 +11688,12 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_wisteria_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -11079,6 +11721,12 @@
   "tropicraft:recipes/tropicraft/palm_door": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -11115,6 +11763,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/polished_cinderstone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -11229,6 +11883,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -11442,15 +12102,39 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/quicksilver_sword": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
     },
     "done": true
   },
+  "smallships:recipes/envi_wisteria_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_misc/cooked_charscale_moki_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -11541,6 +12225,12 @@
   "undergarden:recipes/food/smoke_glowing_kelp": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -11808,6 +12498,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_redwood_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -11847,6 +12543,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -12024,6 +12726,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_cherry_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -12081,6 +12789,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -12246,6 +12960,12 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_wisteria_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/sulphuric_rock_slab_from_sulphuric_rock_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -12337,9 +13057,21 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_fir_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_iron": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -12388,6 +13120,12 @@
   "blue_skies:recipes/blue_skies_misc/pyrope_gem_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -12545,6 +13283,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -12896,6 +13640,12 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_willow_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -12971,6 +13721,12 @@
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -13088,6 +13844,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_rotten_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -13118,9 +13880,21 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_cedar_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -13157,6 +13931,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -13226,6 +14006,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_lebethron_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -13259,6 +14045,12 @@
   "undergarden:recipes/undergarden_group/grongle_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -13406,6 +14198,12 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_cherry_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/silver_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -13457,6 +14255,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -13772,9 +14576,27 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_holly_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tropicraft/zircon_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -13853,6 +14675,12 @@
   "tropicraft:recipes/tropicraft/mohogany_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -13955,6 +14783,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/crystallized_wall_from_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mirk_oak_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -14336,6 +15170,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_dead_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_deposit_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -14567,6 +15407,12 @@
   "good_nights_sleep:recipes/gns_tools/necrum_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -14930,6 +15776,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_holly_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorative_blocks/dried_fern_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -15080,9 +15932,21 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_cherry_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -15332,6 +16196,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_lairelosse_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tropicraft/black_chair": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -15446,6 +16316,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_dead_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -15557,6 +16433,12 @@
   "blue_skies:recipes/blue_skies_dungeon/nature_stonebrick_stonecutting_nature_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -15776,6 +16658,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_palm_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/tenanea_bookshelf": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -15857,6 +16745,12 @@
   "betterendforge:recipes/betterendforge/azure_jadestone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -16340,6 +17234,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_mahogany_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_netherite_smithing": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -16373,6 +17273,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_palm_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -16478,6 +17384,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_charred_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -16547,6 +17459,12 @@
   "betterendforge:recipes/betterendforge/umbralith_button_from_umbralith_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -16649,6 +17567,12 @@
   "good_nights_sleep:recipes/gns_blocks/dead_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -16793,6 +17717,12 @@
   "enigmaticlegacy:recipes/generic/enchantment_transposer": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -17096,6 +18026,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_pine_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -17156,6 +18092,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_fir_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/lucernia_stripped_bark": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -17165,6 +18107,12 @@
   "mysticalworld:recipes/mysticalworld/sapphire_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -17366,9 +18314,21 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_beech_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/sapphire_spear": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_beech_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -17774,6 +18734,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_mallorn_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/depthrock_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -17837,6 +18803,12 @@
   "aquaculture:recipes/food/turtle_soup": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -18074,6 +19046,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_beech_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -18095,6 +19073,12 @@
   "mysticalworld:recipes/mysticalworld/quicksilver_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -18122,6 +19106,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_jacaranda_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_tin": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -18131,6 +19121,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -18155,6 +19151,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/midnight_sandstone_wall_stonecutting_midnight_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -18194,6 +19196,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_pear_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -18215,6 +19223,12 @@
   "bountifulbaubles:recipes/bountifulbaubles/disintegration/amulet_sin_wrath": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -18287,6 +19301,12 @@
   "minecraft:recipes/decorative_blocks/dried_large_fern_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -18368,6 +19388,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_fir_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/azure_jadestone_bricks_wall_from_azure_jadestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -18407,6 +19433,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/mossy_lunar_cobblestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -18455,6 +19487,12 @@
   "betterendforge:recipes/betterendforge/umbralith_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -18761,6 +19799,12 @@
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -19076,6 +20120,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_dead_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -19136,6 +20186,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_holly_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/pike_lead": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -19145,6 +20201,12 @@
   "mysticalworld:recipes/mysticalworld/brown_mushroom_wide_post_from_brown_mushroom_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -19394,6 +20456,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_magic_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -19451,6 +20519,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/stripped_maple_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -19547,6 +20621,12 @@
   "tropicraft:recipes/tropicraft/zircon_hoe": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -19700,6 +20780,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_mahogany_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/aquite_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -19727,6 +20813,12 @@
   "mysticalworld:recipes/mysticalworld/quicksilver_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -19835,6 +20927,12 @@
   "blue_skies:recipes/blue_skies_dungeon/poison_stonebrick_wall_stonecutting_poison_stonebrick": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -20162,6 +21260,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_larch_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -20183,6 +21287,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -20208,6 +21318,12 @@
     "criteria": {
       "has_parent_recipe": "2025-04-06 02:32:42 +0000",
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -20601,6 +21717,12 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_willow_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/lead_hoe": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -20769,6 +21891,12 @@
     },
     "done": true
   },
+  "smallships:recipes/envi_wisteria_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/crimson_beam": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -20778,6 +21906,12 @@
   "good_nights_sleep:recipes/gns_armor/zitrite_helmet": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -20802,6 +21936,18 @@
   "mysticalworld:recipes/misc/iron_nugget_from_smelting_iron_knife": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -21177,6 +22323,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_larch_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_iron": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -21252,6 +22404,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_bolt_medium_smithing": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -21351,6 +22509,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_fir_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/mushroom_inside_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -21435,6 +22599,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_pine_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -21444,6 +22614,12 @@
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-04-06 03:18:52 +0000"
     },
     "done": true
   },
@@ -21468,6 +22644,12 @@
   "largemeals:recipes/largemeals/chorus_fruit_popsicle": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -21609,9 +22791,33 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_beech_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -21663,6 +22869,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_mallorn_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/acacia_war_galley": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -21687,6 +22899,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_pear_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_iron": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -21702,6 +22920,12 @@
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -21750,6 +22974,12 @@
   "betterendforge:recipes/betterendforge/thallasium_bulb_lantern_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mirk_oak_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -22011,6 +23241,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_fir_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/gold_chandelier": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -22086,6 +23322,12 @@
   "tropicraft:recipes/tropicraft/manganese_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -22293,6 +23535,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_green_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -22449,6 +23697,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_lebethron_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/midnight_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -22470,6 +23724,12 @@
   "mysticalworld:recipes/mysticalworld/mushroom_stem_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -22566,6 +23826,12 @@
   "betterendforge:recipes/betterendforge/lucernia_door": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -22692,6 +23958,12 @@
   "betterendforge:recipes/betterendforge/dragon_tree_crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -22938,6 +24210,12 @@
   "undergarden:recipes/undergarden_group/catalyst": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -23422,6 +24700,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_maple_war_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -23488,6 +24772,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_palm_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/iron_bulb_lantern_orange": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -23551,6 +24841,12 @@
   "blue_skies:recipes/blue_skies_blocks/pyrope_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_beech_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -23731,6 +25027,12 @@
   "blue_skies:recipes/blue_skies_dungeon/blinding_wall_stonecutting_blinding_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -23956,6 +25258,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_willow_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/connected/gilded/connected_gilded_oak_log": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -24088,6 +25396,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "bountifulbaubles:recipes/bountifulbaubles/rtoken/balloon": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -24112,6 +25426,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_palm_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/mushroom_stem_wide_post": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -24126,7 +25446,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-04-06 02:32:46 +0000"
+      "minecraft:forest": "2025-04-06 02:32:46 +0000",
+      "minecraft:desert_hills": "2025-04-06 03:16:51 +0000",
+      "minecraft:river": "2025-04-06 03:16:50 +0000"
     },
     "done": false
   },
@@ -24748,6 +26070,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_cedar_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/smooth_crystal_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
@@ -25078,6 +26406,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_jacaranda_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/acacia_brigg": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -25087,6 +26421,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_tin": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_galley": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -25135,6 +26475,12 @@
   "betterendforge:recipes/betterendforge/azure_jadestone_bricks_slab_from_azure_jadestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -25243,6 +26589,12 @@
   "mysticalworld:recipes/mysticalworld/pearl_wall_from_pearl_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mirk_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -25384,6 +26736,12 @@
     },
     "done": true
   },
+  "smallships:recipes/lotr_pine_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/upgraded_netherite_shield_smithing": {
     "criteria": {
       "has_the_recipe1": "2025-04-06 02:32:41 +0000"
@@ -25405,6 +26763,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -25576,6 +26940,12 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_mahogany_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/oak_palisade": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -25633,6 +27003,12 @@
   "betterendforge:recipes/betterendforge/thallasium_bulb_lantern_yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_cog": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
@@ -25810,6 +27186,18 @@
     },
     "done": true
   },
+  "smallships:recipes/bop_umbran_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_dhow": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/melon_juice": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -25910,6 +27298,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_rowboat": {
+    "criteria": {
+      "in_water": "2025-04-06 03:16:49 +0000"
     },
     "done": true
   },
