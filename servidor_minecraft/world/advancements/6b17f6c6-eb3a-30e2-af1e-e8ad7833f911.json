@@ -822,6 +822,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-04-06 15:19:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -1647,6 +1653,12 @@
   "betterendforge:recipes/betterendforge/lacugrove_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "illagers_plus:root": {
+    "criteria": {
+      "crafting_table": "2025-04-06 15:19:08 +0000"
     },
     "done": true
   },
@@ -7992,6 +8004,12 @@
     "criteria": {
       "has_parent_recipe": "2025-04-06 02:32:42 +0000",
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "titles:root": {
+    "criteria": {
+      "crafting_table": "2025-04-06 15:19:08 +0000"
     },
     "done": true
   },
@@ -27081,6 +27099,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_dripstone_stonecutting_lunar_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-06 15:19:08 +0000"
     },
     "done": true
   },
