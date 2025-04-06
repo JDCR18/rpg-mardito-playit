@@ -1,173 +1,173 @@
-[02:29:32] [INFO ] Hello, World! (You will see this line every time server resources reload)
-[02:29:32] [INFO ] Loaded script server_scripts:script.js in 0.005 s
-[02:29:32] [INFO ] Loaded 1/1 KubeJS server scripts in 0.012 s
-[02:29:32] [INFO ] Scripts loaded
-[02:29:32] [INFO ] Scanning recipes...
-[02:29:34] [INFO ] [blocks] Found 816 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [blocks] Found 816 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [items] Found 1531 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [items] Found 1531 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [fluids] Found 16 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [fluids] Found 16 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [entity_types] Found 65 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [entity_types] Found 65 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [potions] Found 1 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [potions] Found 1 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
-[02:29:34] [INFO ] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
-[02:29:34] [WARN ] Failed to parse recipe 'greek:altar_zeus[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:34] [WARN ] Failed to parse recipe greek:altar_zeus[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:34] [WARN ] Failed to parse recipe 'nethers_delight:mimicry/abnormals/endergetic/bollom_fruit_mimic[farmersdelight:cooking]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bollom_fruit'
-[02:29:34] [WARN ] Failed to parse recipe nethers_delight:mimicry/abnormals/endergetic/bollom_fruit_mimic[farmersdelight:cooking]: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bollom_fruit'
-[02:29:34] [WARN ] Failed to parse recipe 'pickletweaks:emerald_axe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe pickletweaks:emerald_axe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe 'pickletweaks:emerald_shovel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe pickletweaks:emerald_shovel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe 'pickletweaks:emerald_helmet[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe pickletweaks:emerald_helmet[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe 'pickletweaks:emerald_leggings[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe pickletweaks:emerald_leggings[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe 'pickletweaks:emerald_sickle[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe pickletweaks:emerald_sickle[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe 'buddycards:byg/glacial_oak_card_display[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:glacial_oak_planks'
-[02:29:34] [WARN ] Failed to parse recipe buddycards:byg/glacial_oak_card_display[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'byg:glacial_oak_planks'
-[02:29:34] [WARN ] Failed to parse recipe 'irregularchef:environmental/cutting/wanderer_boots[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'environmental:wanderer_boots'
-[02:29:34] [WARN ] Failed to parse recipe irregularchef:environmental/cutting/wanderer_boots[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'environmental:wanderer_boots'
-[02:29:34] [WARN ] Failed to parse recipe 'bygonenether:gilded_netherite_helmet[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:34] [WARN ] Failed to parse recipe bygonenether:gilded_netherite_helmet[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:34] [WARN ] Failed to parse recipe 'pickletweaks:emerald_boots[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe pickletweaks:emerald_boots[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:34] [WARN ] Failed to parse recipe 'apotheosis:enchanting/potion_charm_enchanting[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:34] [WARN ] Failed to parse recipe apotheosis:enchanting/potion_charm_enchanting[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:34] [WARN ] Failed to parse recipe 'bygonenether:gilded_netherite_leggings[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:34] [WARN ] Failed to parse recipe bygonenether:gilded_netherite_leggings[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:34] [WARN ] Failed to parse recipe 'irregularchef:environmental/cutting/architect_belt[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'environmental:architect_belt'
-[02:29:34] [WARN ] Failed to parse recipe irregularchef:environmental/cutting/architect_belt[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'environmental:architect_belt'
-[02:29:34] [WARN ] Failed to parse recipe 'farmersdelightintegrations:example[forge:conditional]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
-[02:29:34] [WARN ] Failed to parse recipe farmersdelightintegrations:example[forge:conditional]: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
-[02:29:34] [WARN ] Failed to parse recipe 'rats:dragon_wing_iaf[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
-[02:29:34] [WARN ] Failed to parse recipe rats:dragon_wing_iaf[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
-[02:29:34] [WARN ] Failed to parse recipe 'greek:altar_athena[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:34] [WARN ] Failed to parse recipe greek:altar_athena[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:34] [WARN ] Failed to parse recipe 'quark:building/crafting/chests/jungle_trapped_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:jungle_oak_chest'
-[02:29:34] [WARN ] Failed to parse recipe quark:building/crafting/chests/jungle_trapped_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'quark:jungle_oak_chest'
-[02:29:35] [WARN ] Failed to parse recipe 'irregularchef:better_badlands/cutting/kindling_stairs[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling_stairs'
-[02:29:35] [WARN ] Failed to parse recipe irregularchef:better_badlands/cutting/kindling_stairs[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling_stairs'
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_artemis[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_artemis[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'extrabows:recipe_emerald_bow[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe extrabows:recipe_emerald_bow[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'irregularchef:better_badlands/cutting/kindling_slab[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling_slab'
-[02:29:35] [WARN ] Failed to parse recipe irregularchef:better_badlands/cutting/kindling_slab[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling_slab'
-[02:29:35] [WARN ] Failed to parse recipe 'irregularchef:environmental/cutting/healer_pouch[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'environmental:healer_pouch'
-[02:29:35] [WARN ] Failed to parse recipe irregularchef:environmental/cutting/healer_pouch[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'environmental:healer_pouch'
-[02:29:35] [WARN ] Failed to parse recipe 'buddycards:create/create_pack[create:sequenced_assembly]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: create:sequenced_assembly
-[02:29:35] [WARN ] Failed to parse recipe buddycards:create/create_pack[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[02:29:35] [WARN ] Failed to parse recipe 'pickletweaks:emerald_hoe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe pickletweaks:emerald_hoe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'betterendforge:aeternium_ingot[betterendforge:alloying]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe betterendforge:aeternium_ingot[betterendforge:alloying]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_hades[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_hades[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'rats:rat_upgrade_dragon_vanilla[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe rats:rat_upgrade_dragon_vanilla[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_hera[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_hera[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'pickletweaks:emerald_scythe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe pickletweaks:emerald_scythe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_ares[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_ares[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'pickletweaks:emerald_apple[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe pickletweaks:emerald_apple[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'rats:assorted_vegetables[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe rats:assorted_vegetables[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:apotheosis/amphithere_arrow[apotheosis:fletching]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:flint'
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:apotheosis/amphithere_arrow[apotheosis:fletching]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:flint'
-[02:29:35] [WARN ] Failed to parse recipe 'bygonenether:gilded_netherite_chestplate[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:35] [WARN ] Failed to parse recipe bygonenether:gilded_netherite_chestplate[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:farmersdelight/pythadendron_wood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'betterendforge:pythadendron_wood'
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:farmersdelight/pythadendron_wood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'betterendforge:pythadendron_wood'
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_apollo[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_apollo[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'bayou_blues:crafting/gooseberry_jam_cookie_bent[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
-[02:29:35] [WARN ] Failed to parse recipe bayou_blues:crafting/gooseberry_jam_cookie_bent[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:emerald_ingot[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:emerald_ingot[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_hermes[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_hermes[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_hecate[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_hecate[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'irregularchef:environmental/cutting/thief_hood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'environmental:thief_hood'
-[02:29:35] [WARN ] Failed to parse recipe irregularchef:environmental/cutting/thief_hood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'environmental:thief_hood'
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_hephaestus[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_hephaestus[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'bygonenether:gilded_netherite_boots[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:35] [WARN ] Failed to parse recipe bygonenether:gilded_netherite_boots[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_persephone[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_persephone[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:apotheosis/phantasmal_arrow[apotheosis:fletching]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:cofh_core_ectoplasm'
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:apotheosis/phantasmal_arrow[apotheosis:fletching]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:cofh_core_ectoplasm'
-[02:29:35] [WARN ] Failed to parse recipe 'roughtweaks:salve4[minecraft:crafting_shapeless]': {"item":"minecraft:air"} is not a valid result!
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_poseidon[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_poseidon[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:betterendinfusion_modded/sharpshooter_book[betterendforge:infusion]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:eye_of_ender'
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:betterendinfusion_modded/sharpshooter_book[betterendforge:infusion]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:eye_of_ender'
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:apotheosis/slime_arrow[apotheosis:fletching]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:slime_balls'
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:apotheosis/slime_arrow[apotheosis:fletching]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:slime_balls'
-[02:29:35] [WARN ] Failed to parse recipe 'pickletweaks:emerald_chestplate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe pickletweaks:emerald_chestplate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'infernalexp:stonecutting/basalt_bricks_vertical_slab[minecraft:stonecutting]': "infernalexp:basalt_bricks_vertical_slab" is not a valid result!
-[02:29:35] [WARN ] Failed to parse recipe 'pickletweaks:emerald_sword[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe pickletweaks:emerald_sword[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'mushroomquest:glowinggoor[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mushroomquest:deleted_mod_element'
-[02:29:35] [WARN ] Failed to parse recipe mushroomquest:glowinggoor[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'mushroomquest:deleted_mod_element'
-[02:29:35] [WARN ] Failed to parse recipe 'irregularchef:better_badlands/cutting/kindling[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling'
-[02:29:35] [WARN ] Failed to parse recipe irregularchef:better_badlands/cutting/kindling[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling'
-[02:29:35] [WARN ] Failed to parse recipe 'pickletweaks:emerald_pickaxe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe pickletweaks:emerald_pickaxe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'twilightdelight:lily_chicken_block[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:huge_lily_pad'
-[02:29:35] [WARN ] Failed to parse recipe twilightdelight:lily_chicken_block[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:huge_lily_pad'
-[02:29:35] [WARN ] Failed to parse recipe 'twilightdelight:iron_lotus[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:huge_water_lily'
-[02:29:35] [WARN ] Failed to parse recipe twilightdelight:iron_lotus[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:huge_water_lily'
-[02:29:35] [WARN ] Failed to parse recipe 'villagertools:restock[minecraft:stonecutting]': "villagertools:restock" is not a valid result!
-[02:29:35] [WARN ] Failed to parse recipe 'extrabows:recipe_emerald_upgrade_kit[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe extrabows:recipe_emerald_upgrade_kit[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:apotheosis/stymphalian_arrow[apotheosis:fletching]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:flint'
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:apotheosis/stymphalian_arrow[apotheosis:fletching]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:flint'
-[02:29:35] [WARN ] Failed to parse recipe 'greek:altar_aphrodite[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
-[02:29:35] [WARN ] Failed to parse recipe greek:altar_aphrodite[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:tool_recycling/diamond_nugget_from_blasting_spartan[minecraft:blasting]'! Falling back to vanilla: java.lang.IllegalStateException: Item: kubejs:diamond_nugget does not exist
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:tool_recycling/diamond_nugget_from_blasting_spartan[minecraft:blasting]:
-[02:29:35] [ERR  ] java.lang.IllegalStateException: Item: kubejs:diamond_nugget does not exist
-[02:29:35] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_222177_a(CookingRecipeSerializer.java:32)
-[02:29:35] [ERR  ] 	at java.base/java.util.Optional.orElseThrow(Optional.java:408)
-[02:29:35] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:31)
-[02:29:35] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:11)
-[02:29:35] [ERR  ] 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141)
-[02:29:35] [WARN ] Failed to parse recipe 'relics:rage_glove[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:35] [WARN ] Failed to parse recipe relics:rage_glove[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:35] [WARN ] Failed to parse recipe 'rad_recipes:tool_recycling/diamond_nugget_from_blasting_vanilla[minecraft:blasting]'! Falling back to vanilla: java.lang.IllegalStateException: Item: kubejs:diamond_nugget does not exist
-[02:29:35] [WARN ] Failed to parse recipe rad_recipes:tool_recycling/diamond_nugget_from_blasting_vanilla[minecraft:blasting]:
-[02:29:35] [ERR  ] java.lang.IllegalStateException: Item: kubejs:diamond_nugget does not exist
-[02:29:35] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_222177_a(CookingRecipeSerializer.java:32)
-[02:29:35] [ERR  ] 	at java.base/java.util.Optional.orElseThrow(Optional.java:408)
-[02:29:35] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:31)
-[02:29:35] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:11)
-[02:29:35] [ERR  ] 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141)
-[02:29:35] [WARN ] Failed to parse recipe 'relics:ice_breaker[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:35] [WARN ] Failed to parse recipe relics:ice_breaker[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:29:35] [WARN ] Failed to parse recipe 'iceandfire:dragonmeal[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe iceandfire:dragonmeal[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe 'byg:therium_shard_and_steel[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe byg:therium_shard_and_steel[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe 'alexsmobs:flint_n_steel_dropbear_claw[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [WARN ] Failed to parse recipe alexsmobs:flint_n_steel_dropbear_claw[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
-[02:29:35] [INFO ] Found 14890 recipes and 0 failed recipes in 951.4 ms
-[02:29:35] [INFO ] Posted recipe events in 6.102 ms
-[02:29:36] [INFO ] Modified & removed recipes in 569.6 ms
-[02:29:36] [INFO ] Added recipes in 827.3 μs
-[02:29:36] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
-[02:29:39] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[02:29:39] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[02:45:17] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[02:45:17] [INFO ] Loaded script server_scripts:script.js in 0.004 s
+[02:45:17] [INFO ] Loaded 1/1 KubeJS server scripts in 0.01 s
+[02:45:17] [INFO ] Scripts loaded
+[02:45:17] [INFO ] Scanning recipes...
+[02:45:20] [INFO ] [blocks] Found 816 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [blocks] Found 816 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [items] Found 1531 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [items] Found 1531 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [fluids] Found 16 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [fluids] Found 16 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [entity_types] Found 65 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [entity_types] Found 65 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [potions] Found 1 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [potions] Found 1 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
+[02:45:20] [INFO ] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
+[02:45:20] [WARN ] Failed to parse recipe 'greek:altar_zeus[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:20] [WARN ] Failed to parse recipe greek:altar_zeus[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:20] [WARN ] Failed to parse recipe 'nethers_delight:mimicry/abnormals/endergetic/bollom_fruit_mimic[farmersdelight:cooking]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bollom_fruit'
+[02:45:20] [WARN ] Failed to parse recipe nethers_delight:mimicry/abnormals/endergetic/bollom_fruit_mimic[farmersdelight:cooking]: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bollom_fruit'
+[02:45:20] [WARN ] Failed to parse recipe 'pickletweaks:emerald_axe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe pickletweaks:emerald_axe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe 'pickletweaks:emerald_shovel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe pickletweaks:emerald_shovel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe 'pickletweaks:emerald_helmet[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe pickletweaks:emerald_helmet[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe 'pickletweaks:emerald_leggings[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe pickletweaks:emerald_leggings[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe 'pickletweaks:emerald_sickle[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe pickletweaks:emerald_sickle[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe 'buddycards:byg/glacial_oak_card_display[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:glacial_oak_planks'
+[02:45:20] [WARN ] Failed to parse recipe buddycards:byg/glacial_oak_card_display[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'byg:glacial_oak_planks'
+[02:45:20] [WARN ] Failed to parse recipe 'irregularchef:environmental/cutting/wanderer_boots[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'environmental:wanderer_boots'
+[02:45:20] [WARN ] Failed to parse recipe irregularchef:environmental/cutting/wanderer_boots[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'environmental:wanderer_boots'
+[02:45:20] [WARN ] Failed to parse recipe 'bygonenether:gilded_netherite_helmet[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:20] [WARN ] Failed to parse recipe bygonenether:gilded_netherite_helmet[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:20] [WARN ] Failed to parse recipe 'pickletweaks:emerald_boots[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe pickletweaks:emerald_boots[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:20] [WARN ] Failed to parse recipe 'apotheosis:enchanting/potion_charm_enchanting[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:20] [WARN ] Failed to parse recipe apotheosis:enchanting/potion_charm_enchanting[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:20] [WARN ] Failed to parse recipe 'bygonenether:gilded_netherite_leggings[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:20] [WARN ] Failed to parse recipe bygonenether:gilded_netherite_leggings[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:20] [WARN ] Failed to parse recipe 'irregularchef:environmental/cutting/architect_belt[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'environmental:architect_belt'
+[02:45:20] [WARN ] Failed to parse recipe irregularchef:environmental/cutting/architect_belt[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'environmental:architect_belt'
+[02:45:20] [WARN ] Failed to parse recipe 'farmersdelightintegrations:example[forge:conditional]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
+[02:45:20] [WARN ] Failed to parse recipe farmersdelightintegrations:example[forge:conditional]: com.google.gson.JsonSyntaxException: Missing modid, expected to find a string
+[02:45:20] [WARN ] Failed to parse recipe 'rats:dragon_wing_iaf[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+[02:45:20] [WARN ] Failed to parse recipe rats:dragon_wing_iaf[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+[02:45:20] [WARN ] Failed to parse recipe 'greek:altar_athena[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:20] [WARN ] Failed to parse recipe greek:altar_athena[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:20] [WARN ] Failed to parse recipe 'quark:building/crafting/chests/jungle_trapped_chest[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:jungle_oak_chest'
+[02:45:20] [WARN ] Failed to parse recipe quark:building/crafting/chests/jungle_trapped_chest[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'quark:jungle_oak_chest'
+[02:45:20] [WARN ] Failed to parse recipe 'irregularchef:better_badlands/cutting/kindling_stairs[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling_stairs'
+[02:45:20] [WARN ] Failed to parse recipe irregularchef:better_badlands/cutting/kindling_stairs[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling_stairs'
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_artemis[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_artemis[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'extrabows:recipe_emerald_bow[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe extrabows:recipe_emerald_bow[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'irregularchef:better_badlands/cutting/kindling_slab[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling_slab'
+[02:45:21] [WARN ] Failed to parse recipe irregularchef:better_badlands/cutting/kindling_slab[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling_slab'
+[02:45:21] [WARN ] Failed to parse recipe 'irregularchef:environmental/cutting/healer_pouch[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'environmental:healer_pouch'
+[02:45:21] [WARN ] Failed to parse recipe irregularchef:environmental/cutting/healer_pouch[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'environmental:healer_pouch'
+[02:45:21] [WARN ] Failed to parse recipe 'buddycards:create/create_pack[create:sequenced_assembly]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: create:sequenced_assembly
+[02:45:21] [WARN ] Failed to parse recipe buddycards:create/create_pack[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
+[02:45:21] [WARN ] Failed to parse recipe 'pickletweaks:emerald_hoe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe pickletweaks:emerald_hoe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'betterendforge:aeternium_ingot[betterendforge:alloying]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe betterendforge:aeternium_ingot[betterendforge:alloying]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_hades[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_hades[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'rats:rat_upgrade_dragon_vanilla[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:21] [WARN ] Failed to parse recipe rats:rat_upgrade_dragon_vanilla[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_hera[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_hera[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'pickletweaks:emerald_scythe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe pickletweaks:emerald_scythe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_ares[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_ares[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'pickletweaks:emerald_apple[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe pickletweaks:emerald_apple[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'rats:assorted_vegetables[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:21] [WARN ] Failed to parse recipe rats:assorted_vegetables[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:apotheosis/amphithere_arrow[apotheosis:fletching]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:flint'
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:apotheosis/amphithere_arrow[apotheosis:fletching]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:flint'
+[02:45:21] [WARN ] Failed to parse recipe 'bygonenether:gilded_netherite_chestplate[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:21] [WARN ] Failed to parse recipe bygonenether:gilded_netherite_chestplate[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:farmersdelight/pythadendron_wood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'betterendforge:pythadendron_wood'
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:farmersdelight/pythadendron_wood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'betterendforge:pythadendron_wood'
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_apollo[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_apollo[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'bayou_blues:crafting/gooseberry_jam_cookie_bent[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
+[02:45:21] [WARN ] Failed to parse recipe bayou_blues:crafting/gooseberry_jam_cookie_bent[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:emerald_ingot[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:emerald_ingot[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_hermes[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_hermes[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_hecate[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_hecate[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'irregularchef:environmental/cutting/thief_hood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'environmental:thief_hood'
+[02:45:21] [WARN ] Failed to parse recipe irregularchef:environmental/cutting/thief_hood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'environmental:thief_hood'
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_hephaestus[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_hephaestus[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'bygonenether:gilded_netherite_boots[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:21] [WARN ] Failed to parse recipe bygonenether:gilded_netherite_boots[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_persephone[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_persephone[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:apotheosis/phantasmal_arrow[apotheosis:fletching]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:cofh_core_ectoplasm'
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:apotheosis/phantasmal_arrow[apotheosis:fletching]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:cofh_core_ectoplasm'
+[02:45:21] [WARN ] Failed to parse recipe 'roughtweaks:salve4[minecraft:crafting_shapeless]': {"item":"minecraft:air"} is not a valid result!
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_poseidon[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_poseidon[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:betterendinfusion_modded/sharpshooter_book[betterendforge:infusion]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:eye_of_ender'
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:betterendinfusion_modded/sharpshooter_book[betterendforge:infusion]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:eye_of_ender'
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:apotheosis/slime_arrow[apotheosis:fletching]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:slime_balls'
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:apotheosis/slime_arrow[apotheosis:fletching]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:slime_balls'
+[02:45:21] [WARN ] Failed to parse recipe 'pickletweaks:emerald_chestplate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe pickletweaks:emerald_chestplate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'infernalexp:stonecutting/basalt_bricks_vertical_slab[minecraft:stonecutting]': "infernalexp:basalt_bricks_vertical_slab" is not a valid result!
+[02:45:21] [WARN ] Failed to parse recipe 'pickletweaks:emerald_sword[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe pickletweaks:emerald_sword[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'mushroomquest:glowinggoor[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mushroomquest:deleted_mod_element'
+[02:45:21] [WARN ] Failed to parse recipe mushroomquest:glowinggoor[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'mushroomquest:deleted_mod_element'
+[02:45:21] [WARN ] Failed to parse recipe 'irregularchef:better_badlands/cutting/kindling[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling'
+[02:45:21] [WARN ] Failed to parse recipe irregularchef:better_badlands/cutting/kindling[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'better_badlands:kindling'
+[02:45:21] [WARN ] Failed to parse recipe 'pickletweaks:emerald_pickaxe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe pickletweaks:emerald_pickaxe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'twilightdelight:lily_chicken_block[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:huge_lily_pad'
+[02:45:21] [WARN ] Failed to parse recipe twilightdelight:lily_chicken_block[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:huge_lily_pad'
+[02:45:21] [WARN ] Failed to parse recipe 'twilightdelight:iron_lotus[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:huge_water_lily'
+[02:45:21] [WARN ] Failed to parse recipe twilightdelight:iron_lotus[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:huge_water_lily'
+[02:45:21] [WARN ] Failed to parse recipe 'villagertools:restock[minecraft:stonecutting]': "villagertools:restock" is not a valid result!
+[02:45:21] [WARN ] Failed to parse recipe 'extrabows:recipe_emerald_upgrade_kit[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe extrabows:recipe_emerald_upgrade_kit[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'kubejs:emerald_ingot'
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:apotheosis/stymphalian_arrow[apotheosis:fletching]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:flint'
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:apotheosis/stymphalian_arrow[apotheosis:fletching]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:flint'
+[02:45:21] [WARN ] Failed to parse recipe 'greek:altar_aphrodite[rpggods:altar_shapeless]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: rpggods:altar_shapeless
+[02:45:21] [WARN ] Failed to parse recipe greek:altar_aphrodite[rpggods:altar_shapeless]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'rpggods:altar_shapeless'
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:tool_recycling/diamond_nugget_from_blasting_spartan[minecraft:blasting]'! Falling back to vanilla: java.lang.IllegalStateException: Item: kubejs:diamond_nugget does not exist
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:tool_recycling/diamond_nugget_from_blasting_spartan[minecraft:blasting]:
+[02:45:21] [ERR  ] java.lang.IllegalStateException: Item: kubejs:diamond_nugget does not exist
+[02:45:21] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_222177_a(CookingRecipeSerializer.java:32)
+[02:45:21] [ERR  ] 	at java.base/java.util.Optional.orElseThrow(Optional.java:408)
+[02:45:21] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:31)
+[02:45:21] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:11)
+[02:45:21] [ERR  ] 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141)
+[02:45:21] [WARN ] Failed to parse recipe 'relics:rage_glove[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:21] [WARN ] Failed to parse recipe relics:rage_glove[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:21] [WARN ] Failed to parse recipe 'rad_recipes:tool_recycling/diamond_nugget_from_blasting_vanilla[minecraft:blasting]'! Falling back to vanilla: java.lang.IllegalStateException: Item: kubejs:diamond_nugget does not exist
+[02:45:21] [WARN ] Failed to parse recipe rad_recipes:tool_recycling/diamond_nugget_from_blasting_vanilla[minecraft:blasting]:
+[02:45:21] [ERR  ] java.lang.IllegalStateException: Item: kubejs:diamond_nugget does not exist
+[02:45:21] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_222177_a(CookingRecipeSerializer.java:32)
+[02:45:21] [ERR  ] 	at java.base/java.util.Optional.orElseThrow(Optional.java:408)
+[02:45:21] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:31)
+[02:45:21] [ERR  ] 	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:11)
+[02:45:21] [ERR  ] 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141)
+[02:45:21] [WARN ] Failed to parse recipe 'relics:ice_breaker[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:21] [WARN ] Failed to parse recipe relics:ice_breaker[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[02:45:21] [WARN ] Failed to parse recipe 'iceandfire:dragonmeal[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:21] [WARN ] Failed to parse recipe iceandfire:dragonmeal[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:21] [WARN ] Failed to parse recipe 'byg:therium_shard_and_steel[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:21] [WARN ] Failed to parse recipe byg:therium_shard_and_steel[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:22] [WARN ] Failed to parse recipe 'alexsmobs:flint_n_steel_dropbear_claw[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:22] [WARN ] Failed to parse recipe alexsmobs:flint_n_steel_dropbear_claw[minecraft:crafting_shapeless]: com.google.gson.JsonParseException: No ingredients for shapeless recipe
+[02:45:22] [INFO ] Found 14890 recipes and 0 failed recipes in 1.430 s
+[02:45:22] [INFO ] Posted recipe events in 6.011 ms
+[02:45:22] [INFO ] Modified & removed recipes in 948.9 ms
+[02:45:22] [INFO ] Added recipes in 724.4 μs
+[02:45:22] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[02:45:25] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[02:45:25] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects

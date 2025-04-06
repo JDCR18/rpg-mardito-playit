@@ -1,5 +1,5 @@
-[02:29:11.835][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[02:29:12.285][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+[02:44:56.428][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[02:44:56.735][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
 'aquaculture' at version '1.16.5-2.1.23'
 'ars_nouveau' at version '1.25.10'
 'atum' at version '1.16.5-2.2.12'
@@ -7,40 +7,40 @@
 'crafttweaker' at version '7.1.2.520'
 'farmersdelight' at version '1.16.5-0.6.0'
 'gamestages' at version '7.3.14'
-[02:29:12.693][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[02:29:26.237][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[02:29:26.851][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
-[02:29:40.197][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[02:29:40.261][DONE][CLIENT][INFO] Loading file: 'gamestages/bosskills.zs' with priority: 11
-[02:29:40.264][DONE][CLIENT][INFO] Loading file: 'tags.zs' with priority: 11
-[02:29:40.269][DONE][CLIENT][INFO] Loading file: 'affixNerf.zs' with priority: 10
-[02:29:40.271][DONE][CLIENT][INFO] Loading file: 'armorDurabilityBuff.zs' with priority: 10
-[02:29:40.271][DONE][CLIENT][INFO] Loading file: 'craftingTable.zs' with priority: 10
-[02:29:40.273][DONE][CLIENT][INFO] Loading file: 'enchantDupeFix.zs' with priority: 10
-[02:29:40.274][DONE][CLIENT][ERROR] Could not get item with name: <item:kubejs:forbid>! Item does not appear to exist!
-[02:29:40.274][DONE][CLIENT][INFO] Loading file: 'enchantLock.zs' with priority: 10
-[02:29:40.275][DONE][CLIENT][ERROR] Could not get item with name: <item:kubejs:forbid>! Item does not appear to exist!
-[02:29:40.276][DONE][CLIENT][INFO] Loading file: 'endLock.zs' with priority: 10
-[02:29:40.279][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_crafting_recipes.zs' with priority: 10
-[02:29:40.279][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_events.zs' with priority: 10
-[02:29:40.279][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_hello_world.zs' with priority: 10
-[02:29:40.279][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_loot_modifiers.zs' with priority: 10
-[02:29:40.279][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_tags.zs' with priority: 10
-[02:29:40.279][DONE][CLIENT][INFO] Loading file: 'furnace.zs' with priority: 10
-[02:29:40.279][DONE][CLIENT][INFO] Loading file: 'gamestages/endlock.zs' with priority: 10
-[02:29:40.279][DONE][CLIENT][INFO] Loading file: 'inconsistancyTweaks.zs' with priority: 10
-[02:29:40.280][DONE][CLIENT][INFO] Loading file: 'item_attributes.zs' with priority: 10
-[02:29:40.285][DONE][CLIENT][INFO] Loading file: 'ladder.zs' with priority: 10
-[02:29:40.287][DONE][CLIENT][INFO] Loading file: 'magicTome.zs' with priority: 10
-[02:29:40.287][DONE][CLIENT][INFO] Loading file: 'noflying.zs' with priority: 10
-[02:29:40.288][DONE][CLIENT][INFO] Loading file: 'nu_tweaks.zs' with priority: 10
-[02:29:40.289][DONE][CLIENT][INFO] Loading file: 'potionCharm.zs' with priority: 10
-[02:29:40.290][DONE][CLIENT][INFO] Loading file: 'stackSize.zs' with priority: 10
-[02:29:40.290][DONE][CLIENT][INFO] Loading file: 'stupidSpawnEggs.zs' with priority: 10
-[02:29:40.290][DONE][CLIENT][INFO] Loading file: 'titles.zs' with priority: 10
-[02:29:40.291][DONE][CLIENT][INFO] Loading file: 'tollBellNerf.zs' with priority: 10
-[02:29:40.292][DONE][CLIENT][INFO] Loading file: 'villagertrades.zs' with priority: 10
-[02:29:40.294][DONE][CLIENT][ERROR] Parser Exception @ enchantDupeFix.zs:8:18 : Invalid parameters to BEP item: '<item:kubejs:forbid>. There may be more information about this in the log.
+[02:44:57.315][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[02:45:11.341][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[02:45:12.063][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[02:45:27.199][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[02:45:27.290][DONE][CLIENT][INFO] Loading file: 'gamestages/bosskills.zs' with priority: 11
+[02:45:27.294][DONE][CLIENT][INFO] Loading file: 'tags.zs' with priority: 11
+[02:45:27.301][DONE][CLIENT][INFO] Loading file: 'affixNerf.zs' with priority: 10
+[02:45:27.302][DONE][CLIENT][INFO] Loading file: 'armorDurabilityBuff.zs' with priority: 10
+[02:45:27.303][DONE][CLIENT][INFO] Loading file: 'craftingTable.zs' with priority: 10
+[02:45:27.306][DONE][CLIENT][INFO] Loading file: 'enchantDupeFix.zs' with priority: 10
+[02:45:27.306][DONE][CLIENT][ERROR] Could not get item with name: <item:kubejs:forbid>! Item does not appear to exist!
+[02:45:27.307][DONE][CLIENT][INFO] Loading file: 'enchantLock.zs' with priority: 10
+[02:45:27.308][DONE][CLIENT][ERROR] Could not get item with name: <item:kubejs:forbid>! Item does not appear to exist!
+[02:45:27.308][DONE][CLIENT][INFO] Loading file: 'endLock.zs' with priority: 10
+[02:45:27.312][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_crafting_recipes.zs' with priority: 10
+[02:45:27.312][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_events.zs' with priority: 10
+[02:45:27.312][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_hello_world.zs' with priority: 10
+[02:45:27.312][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_loot_modifiers.zs' with priority: 10
+[02:45:27.312][DONE][CLIENT][INFO] Loading file: 'examples/crafttweaker_tags.zs' with priority: 10
+[02:45:27.312][DONE][CLIENT][INFO] Loading file: 'furnace.zs' with priority: 10
+[02:45:27.313][DONE][CLIENT][INFO] Loading file: 'gamestages/endlock.zs' with priority: 10
+[02:45:27.313][DONE][CLIENT][INFO] Loading file: 'inconsistancyTweaks.zs' with priority: 10
+[02:45:27.314][DONE][CLIENT][INFO] Loading file: 'item_attributes.zs' with priority: 10
+[02:45:27.320][DONE][CLIENT][INFO] Loading file: 'ladder.zs' with priority: 10
+[02:45:27.321][DONE][CLIENT][INFO] Loading file: 'magicTome.zs' with priority: 10
+[02:45:27.321][DONE][CLIENT][INFO] Loading file: 'noflying.zs' with priority: 10
+[02:45:27.322][DONE][CLIENT][INFO] Loading file: 'nu_tweaks.zs' with priority: 10
+[02:45:27.323][DONE][CLIENT][INFO] Loading file: 'potionCharm.zs' with priority: 10
+[02:45:27.324][DONE][CLIENT][INFO] Loading file: 'stackSize.zs' with priority: 10
+[02:45:27.324][DONE][CLIENT][INFO] Loading file: 'stupidSpawnEggs.zs' with priority: 10
+[02:45:27.325][DONE][CLIENT][INFO] Loading file: 'titles.zs' with priority: 10
+[02:45:27.327][DONE][CLIENT][INFO] Loading file: 'tollBellNerf.zs' with priority: 10
+[02:45:27.327][DONE][CLIENT][INFO] Loading file: 'villagertrades.zs' with priority: 10
+[02:45:27.330][DONE][CLIENT][ERROR] Parser Exception @ enchantDupeFix.zs:8:18 : Invalid parameters to BEP item: '<item:kubejs:forbid>. There may be more information about this in the log.
 org.openzen.zenscript.lexer.ParseException: enchantDupeFix.zs:8:18: Invalid parameters to BEP item: '<item:kubejs:forbid>. There may be more information about this in the log.
 	at com.blamejared.crafttweaker.api.zencode.brackets.ValidatedEscapableBracketParser.parse(ValidatedEscapableBracketParser.java:115)
 	at com.blamejared.crafttweaker.api.zencode.brackets.IgnorePrefixCasingBracketParser.parse(IgnorePrefixCasingBracketParser.java:84)
@@ -141,7 +141,7 @@ org.openzen.zenscript.lexer.ParseException: enchantDupeFix.zs:8:18: Invalid para
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
 
-[02:29:40.294][DONE][CLIENT][ERROR] Parser Exception @ enchantDupeFix.zs:9:1 : Type expected (got })
+[02:45:27.331][DONE][CLIENT][ERROR] Parser Exception @ enchantDupeFix.zs:9:1 : Type expected (got })
 org.openzen.zenscript.lexer.ParseException: enchantDupeFix.zs:9:1: Type expected (got })
 	at org.openzen.zenscript.parser.type.IParsedType.parse(IParsedType.java:24)
 	at org.openzen.zenscript.parser.expression.ParsedExpression.readPrimaryExpression(ParsedExpression.java:564)
@@ -202,7 +202,7 @@ org.openzen.zenscript.lexer.ParseException: enchantDupeFix.zs:9:1: Type expected
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
 
-[02:29:40.295][DONE][CLIENT][ERROR] Parser Exception @ enchantLock.zs:94:23 : Invalid parameters to BEP item: '<item:kubejs:forbid>. There may be more information about this in the log.
+[02:45:27.332][DONE][CLIENT][ERROR] Parser Exception @ enchantLock.zs:94:23 : Invalid parameters to BEP item: '<item:kubejs:forbid>. There may be more information about this in the log.
 org.openzen.zenscript.lexer.ParseException: enchantLock.zs:94:23: Invalid parameters to BEP item: '<item:kubejs:forbid>. There may be more information about this in the log.
 	at com.blamejared.crafttweaker.api.zencode.brackets.ValidatedEscapableBracketParser.parse(ValidatedEscapableBracketParser.java:115)
 	at com.blamejared.crafttweaker.api.zencode.brackets.IgnorePrefixCasingBracketParser.parse(IgnorePrefixCasingBracketParser.java:84)
@@ -303,7 +303,7 @@ org.openzen.zenscript.lexer.ParseException: enchantLock.zs:94:23: Invalid parame
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
 
-[02:29:40.295][DONE][CLIENT][ERROR] Parser Exception @ enchantLock.zs:95:4 : Type expected (got })
+[02:45:27.333][DONE][CLIENT][ERROR] Parser Exception @ enchantLock.zs:95:4 : Type expected (got })
 org.openzen.zenscript.lexer.ParseException: enchantLock.zs:95:4: Type expected (got })
 	at org.openzen.zenscript.parser.type.IParsedType.parse(IParsedType.java:24)
 	at org.openzen.zenscript.parser.expression.ParsedExpression.readPrimaryExpression(ParsedExpression.java:564)
@@ -364,6 +364,6 @@ org.openzen.zenscript.lexer.ParseException: enchantLock.zs:95:4: Type expected (
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
 
-[02:29:40.296][DONE][CLIENT][ERROR] Scripts are invalid!
-[02:29:40.296][DONE][CLIENT][INFO] Finished loading Scripts!
-[02:29:40.298][DONE][CLIENT][INFO] This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[02:45:27.333][DONE][CLIENT][ERROR] Scripts are invalid!
+[02:45:27.334][DONE][CLIENT][INFO] Finished loading Scripts!
+[02:45:27.337][DONE][CLIENT][INFO] This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
