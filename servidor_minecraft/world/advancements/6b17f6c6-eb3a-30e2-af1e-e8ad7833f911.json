@@ -2088,6 +2088,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-06 16:01:10 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
