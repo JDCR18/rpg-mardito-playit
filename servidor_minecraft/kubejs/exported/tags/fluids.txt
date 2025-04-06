@@ -1,0 +1,59 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 6, 2025, 2:29:34 AM
+
+#forge:ender
+
+#forge:experience
+- cofh_core:experience
+- sophisticatedbackpacks:xp_still
+
+#forge:crude_oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- the_bumblezone:sugar_water_still
+- the_bumblezone:sugar_water_flowing
+- undergarden:virulent_mix_source
+- undergarden:virulent_mix_flowing
+- betterportals:portal_fluid_still
+- betterportals:portal_fluid_flowing
+
+#forge:redstone
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:glowstone
+
+#the_bumblezone:honey
+- the_bumblezone:honey_fluid_still
+- the_bumblezone:honey_fluid_flowing
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:latex
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- the_bumblezone:honey_fluid_still
+- the_bumblezone:honey_fluid_flowing
+- inspirations:honey?
+- inspirations:flowing_honey?
+- cofh_core:honey
+
+#forge:creosote
+
+#forge:potion
+- cofh_core:potion
+
+#twilightforest:portal_fluid
+- #minecraft:water
