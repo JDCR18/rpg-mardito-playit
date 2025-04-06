@@ -2445,3 +2445,245 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [06Apr2025 15:41:38.328] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
 [06Apr2025 15:41:38.331] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
 [06Apr2025 15:41:39.831] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@65974572[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:42347) lost connection: Disconnected
+[06Apr2025 15:49:58.381] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: danae1108 lost connection: Disconnected
+[06Apr2025 15:49:58.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: danae1108 left the game
+[06Apr2025 15:50:36.650] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:50:36.652] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:50:38.219] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5de1d3a9[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:40955) lost connection: Disconnected
+[06Apr2025 15:51:11.332] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:51:11.334] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:51:12.818] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@57edc78d[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:60917) lost connection: Disconnected
+[06Apr2025 15:51:35.697] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:51:35.700] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:51:37.167] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@522e2232[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:46883) lost connection: Disconnected
+[06Apr2025 15:53:52.090] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 47.1284% of max allowed vanilla size
+[06Apr2025 15:53:52.092] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 29.9325% of max allowed vanilla size
+[06Apr2025 15:53:53.618] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@674625d5[id=<null>,name=Ina,properties={},legacy=false] (/127.58.60.6:39821) lost connection: Disconnected
+[06Apr2025 15:55:41.924] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[06Apr2025 15:55:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Apr2025 15:55:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Apr2025 15:55:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Apr2025 15:55:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Apr2025 15:55:42.873] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Apr2025 15:55:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Apr2025 15:55:42.874] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Apr2025 15:55:42.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Apr2025 15:55:42.874] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Apr2025 15:55:42.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tropicraft:tropics
+[06Apr2025 15:55:42.875] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (tropics): All chunks are saved
+[06Apr2025 15:55:42.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[06Apr2025 15:55:42.875] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[06Apr2025 15:55:42.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[06Apr2025 15:55:42.876] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[06Apr2025 15:55:42.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dimdungeons:dungeon_dimension
+[06Apr2025 15:55:42.876] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon_dimension): All chunks are saved
+[06Apr2025 15:55:42.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/good_nights_sleep:good_dream
+[06Apr2025 15:55:42.877] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (good_dream): All chunks are saved
+[06Apr2025 15:55:42.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[06Apr2025 15:55:42.878] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[06Apr2025 15:55:42.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mining_dimension:mining
+[06Apr2025 15:55:42.878] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[06Apr2025 15:55:42.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/atum:atum
+[06Apr2025 15:55:42.878] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[06Apr2025 15:55:42.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/good_nights_sleep:nightmare
+[06Apr2025 15:55:42.879] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (nightmare): All chunks are saved
+[06Apr2025 15:55:42.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[06Apr2025 15:55:42.879] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[06Apr2025 15:55:42.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[06Apr2025 15:55:42.880] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[06Apr2025 15:55:42.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/feywild:market_place_dimension
+[06Apr2025 15:55:42.880] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (market_place_dimension): All chunks are saved
+[06Apr2025 15:55:42.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[06Apr2025 15:55:42.881] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.953] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.959] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.973] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.974] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (tropics): All chunks are saved
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.975] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.976] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.977] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon_dimension): All chunks are saved
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (good_dream): All chunks are saved
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.978] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.979] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.980] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.981] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (nightmare): All chunks are saved
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.982] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.983] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (market_place_dimension): All chunks are saved
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:archer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:berserker from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:black_iron_golem from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:enchanter from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:frostmancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:furantur from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:hoarder from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_general from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:illager_king from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.984] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:miner from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.985] [Server thread/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Removed illagers_plus:necromancer from Raids to avoid post-mod-removal crashing
+[06Apr2025 15:55:42.985] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
