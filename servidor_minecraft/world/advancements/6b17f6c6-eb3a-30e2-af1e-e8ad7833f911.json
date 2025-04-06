@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-04-06 19:34:11 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/shiverstone_stairs_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
@@ -1938,6 +1944,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-04-06 20:21:22 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_emblem": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -1953,6 +1965,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-04-06 19:48:51 +0000"
     },
     "done": true
   },
@@ -2910,6 +2928,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
+    "criteria": {
+      "has_resource": "2025-04-06 19:48:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -3399,6 +3423,12 @@
   "smallships:recipes/bop_hellbark_war_galley": {
     "criteria": {
       "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "majruszs_difficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2025-04-06 19:33:13 +0000"
     },
     "done": true
   },
@@ -3996,6 +4026,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+    "criteria": {
+      "has_resource": "2025-04-06 19:48:51 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/pearl_wide_post": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -4136,7 +4172,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-06 20:17:44 +0000",
+      "minecraft:spider": "2025-04-06 20:25:44 +0000",
       "minecraft:husk": "2025-04-06 18:51:27 +0000",
+      "minecraft:silverfish": "2025-04-06 20:21:15 +0000",
       "minecraft:zombie": "2025-04-06 03:11:38 +0000"
     },
     "done": false
@@ -5198,6 +5237,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-04-06 19:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -5579,6 +5624,12 @@
   "betterendforge:recipes/betterendforge/mossy_glowshroom_ladder": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "titles:captain": {
+    "criteria": {
+      "code_triggered": "2025-04-06 20:05:27 +0000"
     },
     "done": true
   },
@@ -6017,6 +6068,12 @@
   "minecraft:recipes/decorative_blocks/oak_thin_branch_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 19:49:30 +0000"
     },
     "done": true
   },
@@ -8806,6 +8863,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-06 19:36:42 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
@@ -10572,6 +10635,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-04-06 20:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -11848,6 +11917,12 @@
   "smallships:recipes/lotr_green_oak_galley": {
     "criteria": {
       "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-06 20:21:39 +0000"
     },
     "done": true
   },
@@ -14469,6 +14544,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-04-06 19:55:38 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_door": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -14814,6 +14895,12 @@
   "tropicraft:recipes/tropicraft/mohogany_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-06 19:54:37 +0000"
     },
     "done": true
   },
@@ -15198,6 +15285,12 @@
   "decorative_blocks:recipes/decorations/birch_support": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-06 19:57:01 +0000"
     },
     "done": true
   },
@@ -17277,6 +17370,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-06 19:54:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_explosive": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -17490,7 +17589,8 @@
   "morevillagers:all_villages": {
     "criteria": {
       "desert_village": "2025-04-06 18:48:24 +0000",
-      "savanna_village": "2025-04-06 18:48:29 +0000"
+      "savanna_village": "2025-04-06 18:48:29 +0000",
+      "plains_village": "2025-04-06 19:32:42 +0000"
     },
     "done": false
   },
@@ -18946,6 +19046,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-06 19:33:13 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/red_mushroom_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -19741,6 +19847,12 @@
   "undergarden:recipes/undergarden_group/smelt_underbeans": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-06 20:04:41 +0000"
     },
     "done": true
   },
@@ -20995,6 +21107,12 @@
   "smallships:recipes/bop_umbran_galley": {
     "criteria": {
       "in_water": "2025-04-06 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2025-04-06 19:48:51 +0000"
     },
     "done": true
   },
@@ -22517,6 +22635,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 19:49:30 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/polished_cinderstone_stonecutting_cinderstone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -23237,6 +23361,14 @@
     },
     "done": true
   },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2025-04-06 19:39:06 +0000",
+      "strawberries": "2025-04-06 19:39:06 +0000",
+      "raspberries": "2025-04-06 19:39:42 +0000"
+    },
+    "done": false
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_dripstone_stonecutting_turquoise_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:45 +0000"
@@ -23321,6 +23453,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_sword": {
+    "criteria": {
+      "has_resource": "2025-04-06 19:48:51 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:40 +0000"
@@ -23378,6 +23516,12 @@
   "tropicraft:recipes/tropicraft/cyan_umbrella": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-06 19:50:33 +0000"
     },
     "done": true
   },
@@ -25656,8 +25800,11 @@
       "minecraft:desert_hills": "2025-04-06 03:16:51 +0000",
       "minecraft:desert": "2025-04-06 18:43:19 +0000",
       "minecraft:savanna_plateau": "2025-04-06 18:55:22 +0000",
+      "minecraft:beach": "2025-04-06 19:37:36 +0000",
       "minecraft:river": "2025-04-06 03:16:50 +0000",
-      "minecraft:savanna": "2025-04-06 18:43:07 +0000"
+      "minecraft:wooded_hills": "2025-04-06 20:05:54 +0000",
+      "minecraft:savanna": "2025-04-06 18:43:07 +0000",
+      "minecraft:plains": "2025-04-06 19:32:40 +0000"
     },
     "done": false
   },
@@ -26974,6 +27121,12 @@
   "floormats:recipes/floormats/gold_floormat": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 20:16:21 +0000"
     },
     "done": true
   },

@@ -1,4 +1,4 @@
-[18:23:12] [INFO ] Loaded script startup_scripts:worldgen.js in 0.117 s
-[18:23:12] [INFO ] Starting recipe modification scripts...
-[18:23:12] [INFO ] Loaded script startup_scripts:script.js in 0.022 s
-[18:23:12] [INFO ] Loaded 2/2 KubeJS startup scripts in 0.332 s
+[20:02:17] [INFO ] Loaded script startup_scripts:worldgen.js in 0.088 s
+[20:02:17] [INFO ] Starting recipe modification scripts...
+[20:02:17] [INFO ] Loaded script startup_scripts:script.js in 0.022 s
+[20:02:17] [INFO ] Loaded 2/2 KubeJS startup scripts in 0.299 s

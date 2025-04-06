@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/ingots_silver_to_9_nuggets": {
+    "criteria": {
+      "has_ingot_ingots_silver": "2025-04-06 20:27:32 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_galley": {
     "criteria": {
       "in_water": "2025-04-06 18:47:55 +0000"
@@ -825,6 +831,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-04-06 18:29:00 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:aubergine": {
+    "criteria": {
+      "book": "2025-04-06 20:35:14 +0000"
     },
     "done": true
   },
@@ -1815,6 +1827,12 @@
   "betterendforge:recipes/betterendforge/thallasium_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:55 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/ingots_silver_to_storage_block": {
+    "criteria": {
+      "has_at_least_9_ingots_silver": "2025-04-06 20:27:32 +0000"
     },
     "done": true
   },
@@ -3901,6 +3919,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-06 19:30:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:54 +0000"
@@ -4078,6 +4102,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-06 18:37:02 +0000",
+      "minecraft:silverfish": "2025-04-06 20:16:30 +0000",
       "minecraft:zombie": "2025-04-06 18:37:02 +0000"
     },
     "done": false
@@ -6035,6 +6060,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "beetroot": "2025-04-06 19:29:43 +0000",
       "wheat": "2025-04-06 19:02:40 +0000"
     },
     "done": false
@@ -7701,6 +7727,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/acacia_post": {
+    "criteria": {
+      "has_item": "2025-04-06 20:10:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_drakkar": {
     "criteria": {
       "in_water": "2025-04-06 18:47:55 +0000"
@@ -9015,6 +9047,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/silver_boots": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:55 +0000"
@@ -9900,6 +9938,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:56 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/silver_leggings": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
     },
     "done": true
   },
@@ -11692,6 +11736,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-06 20:22:33 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:57 +0000"
@@ -12517,6 +12567,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/cyan_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 20:17:44 +0000"
     },
     "done": true
   },
@@ -14118,6 +14174,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/silver_axe": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:54 +0000"
@@ -14235,6 +14297,12 @@
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-06 19:56:14 +0000"
     },
     "done": true
   },
@@ -14583,6 +14651,12 @@
   "tropicraft:recipes/tropicraft/mohogany_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-06 20:23:00 +0000"
     },
     "done": true
   },
@@ -14961,6 +15035,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-06 20:12:03 +0000"
     },
     "done": true
   },
@@ -15369,6 +15449,12 @@
   "betterendforge:recipes/betterendforge/terminite_ingot_from_terminite_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_acacia": {
+    "criteria": {
+      "has_plank": "2025-04-06 20:11:44 +0000"
     },
     "done": true
   },
@@ -16047,6 +16133,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/iron_knife_from_ingots_iron": {
+    "criteria": {
+      "has_ingots_iron": "2025-04-06 20:23:00 +0000"
     },
     "done": true
   },
@@ -16896,6 +16988,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/silver_pickaxe": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:54 +0000"
@@ -17016,6 +17114,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-06 20:23:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_explosive": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:57 +0000"
@@ -17079,6 +17183,12 @@
   "good_nights_sleep:recipes/gns_tools/positite_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:57 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/silver_helmet": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
     },
     "done": true
   },
@@ -17217,7 +17327,8 @@
   "morevillagers:all_villages": {
     "criteria": {
       "desert_village": "2025-04-06 18:48:27 +0000",
-      "savanna_village": "2025-04-06 18:48:22 +0000"
+      "savanna_village": "2025-04-06 18:48:22 +0000",
+      "plains_village": "2025-04-06 19:41:32 +0000"
     },
     "done": false
   },
@@ -18668,6 +18779,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-06 19:40:03 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/red_mushroom_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:55 +0000"
@@ -18971,6 +19088,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-06 18:43:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 20:18:41 +0000"
     },
     "done": true
   },
@@ -20175,6 +20298,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/silver_hoe": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:53 +0000"
@@ -20382,6 +20511,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_plank": "2025-04-06 20:11:44 +0000"
     },
     "done": true
   },
@@ -20874,6 +21009,12 @@
   "good_nights_sleep:recipes/gns_blocks/zitrite_block": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candelabra_silver": {
+    "criteria": {
+      "has_plank": "2025-04-06 20:27:32 +0000"
     },
     "done": true
   },
@@ -22878,7 +23019,9 @@
   },
   "simplefarming:berries": {
     "criteria": {
-      "blueberries": "2025-04-06 18:58:22 +0000"
+      "blueberries": "2025-04-06 18:58:22 +0000",
+      "strawberries": "2025-04-06 19:38:32 +0000",
+      "raspberries": "2025-04-06 19:44:52 +0000"
     },
     "done": false
   },
@@ -25144,6 +25287,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/silver_shovel": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/aquatic_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:55 +0000"
@@ -25183,6 +25332,12 @@
   "feywild:recipes/feywild/feywild_lexicon": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:54 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/silver_chestplate": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
     },
     "done": true
   },
@@ -25264,8 +25419,10 @@
       "minecraft:desert_hills": "2025-04-06 18:42:42 +0000",
       "minecraft:desert": "2025-04-06 18:43:31 +0000",
       "minecraft:savanna_plateau": "2025-04-06 18:55:00 +0000",
+      "minecraft:beach": "2025-04-06 19:40:43 +0000",
       "minecraft:river": "2025-04-06 18:42:34 +0000",
-      "minecraft:savanna": "2025-04-06 18:43:03 +0000"
+      "minecraft:savanna": "2025-04-06 18:43:03 +0000",
+      "minecraft:plains": "2025-04-06 19:41:32 +0000"
     },
     "done": false
   },
@@ -25278,6 +25435,12 @@
   "betterendforge:recipes/betterendforge/violecite_button": {
     "criteria": {
       "has_the_recipe": "2025-04-06 18:23:53 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/silver_sword": {
+    "criteria": {
+      "has_ingots_silver": "2025-04-06 20:27:32 +0000"
     },
     "done": true
   },
@@ -25877,8 +26040,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-06 20:28:40 +0000",
       "mutton": "2025-04-06 19:00:36 +0000",
       "cookie": "2025-04-06 19:09:38 +0000",
+      "cooked_chicken": "2025-04-06 19:31:03 +0000",
       "cooked_mutton": "2025-04-06 18:51:50 +0000",
       "apple": "2025-04-06 18:42:47 +0000",
       "bread": "2025-04-06 19:13:34 +0000"

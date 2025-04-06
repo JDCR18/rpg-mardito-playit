@@ -1,0 +1,16 @@
+{
+	id: "c1e97080-4eb2-3a8c-9413-878e3fa8dd5a"
+	type: "player"
+	player_name: "Madlekzz"
+	ranks: {
+		c1e97080-4eb2-3a8c-9413-878e3fa8dd5a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Madlekzz"
+		"ftbteams:color": "#FF59F6"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
