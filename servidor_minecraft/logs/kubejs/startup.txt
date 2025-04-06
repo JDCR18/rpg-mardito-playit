@@ -1,3 +1,4 @@
-[02:45:00] [INFO ] Hello, World! (You will only see this line once in console, during startup)
-[02:45:00] [INFO ] Loaded script startup_scripts:script.js in 0.099 s
-[02:45:00] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.268 s
+[03:10:01] [INFO ] Loaded script startup_scripts:worldgen.js in 0.102 s
+[03:10:01] [INFO ] Starting recipe modification scripts...
+[03:10:01] [INFO ] Loaded script startup_scripts:script.js in 0.027 s
+[03:10:01] [INFO ] Loaded 2/2 KubeJS startup scripts in 0.414 s

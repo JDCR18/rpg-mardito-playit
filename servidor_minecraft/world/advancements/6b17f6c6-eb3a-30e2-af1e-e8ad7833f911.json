@@ -3852,6 +3852,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-06 03:11:38 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -6388,6 +6394,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-04-06 03:11:38 +0000"
     },
     "done": true
   },
@@ -9527,6 +9539,12 @@
     },
     "done": true
   },
+  "majruszs_difficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-04-06 03:11:25 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/smelting/cracked_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:44 +0000"
@@ -10250,6 +10268,12 @@
   "betterendforge:recipes/betterendforge/helix_tree_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-06 03:11:38 +0000"
     },
     "done": true
   },
@@ -24055,6 +24079,12 @@
   "enigmaticlegacy:book/decorations/redstone_lantern": {
     "criteria": {
       "has_the_recipe": "2025-04-06 02:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-06 03:11:38 +0000"
     },
     "done": true
   },
