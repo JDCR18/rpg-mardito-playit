@@ -1,0 +1,16 @@
+{
+	id: "e79afdaf-133e-3618-be76-a0880d0b944c"
+	type: "player"
+	player_name: "Ina"
+	ranks: {
+		e79afdaf-133e-3618-be76-a0880d0b944c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Ina"
+		"ftbteams:color": "#59F4FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
